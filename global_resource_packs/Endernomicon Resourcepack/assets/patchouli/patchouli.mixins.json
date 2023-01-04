@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "vazkii.patchouli.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "patchouli.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "client.MixinClientAdvancementManager"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
