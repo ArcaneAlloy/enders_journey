@@ -107,5 +107,5 @@ interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:12:9:false:false:false:false
+interface:gui.xaero_minimap:11:49:false:false:false:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints
