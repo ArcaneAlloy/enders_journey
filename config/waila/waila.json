@@ -12,8 +12,8 @@
     "reachDistance": 0.0
   },
   "overlay": {
-    "overlayPosX": 0.19565217,
-    "overlayPosY": 0.29891303,
+    "overlayPosX": 0.5,
+    "overlayPosY": 0.35054347,
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
     "overlaySquare": false,
