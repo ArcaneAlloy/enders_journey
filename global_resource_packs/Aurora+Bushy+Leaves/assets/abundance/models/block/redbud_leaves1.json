@@ -1,0 +1,7 @@
+{
+    "parent":"block/leaves_cross",
+    "textures": {
+       "all":"abundance:block/redbud_leaves",
+ "bushy": "abundance:block/redbud_leaves_bushy1"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent":"block/leaves_cross1",
+    "textures": {
+        "all":"autumnity:block/maple_leaves",
+	"bushy": "autumnity:block/maple_leaves_bushy1"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent":"block/leaves_cross",
+    "textures": {
+        "all":"upgrade_aquatic:block/river_leaves",
+	"bushy": "upgrade_aquatic:block/river_leaves_bushy"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "quark:block/leaves_generic",
+  "textures": {
+    "all": "quark:block/lavender_blossom_leaves",
+	"bottom": "quark:block/lavender_blossom_leaves_bottom_bush",
+	"top": "quark:block/lavender_blossom_leaves_top_bush"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "variants": {
+        "distance=1": [
+			{ "model": "bayou_blues:block/beard_moss_block" },
+			{ "model": "bayou_blues:block/beard_moss_block1" }
+				],
+        "distance=2": [
+			{ "model": "bayou_blues:block/beard_moss_block" },
+			{ "model": "bayou_blues:block/beard_moss_block1" }
+				],
+        "distance=3": [
+			{ "model": "bayou_blues:block/beard_moss_block" },
+			{ "model": "bayou_blues:block/beard_moss_block1" }
+				],
+        "distance=4": [
+			{ "model": "bayou_blues:block/beard_moss_block" },
+			{ "model": "bayou_blues:block/beard_moss_block1" }
+				],
+        "distance=5": [
+			{ "model": "bayou_blues:block/beard_moss_block" },
+			{ "model": "bayou_blues:block/beard_moss_block1" }
+				],
+        "distance=6": [
+			{ "model": "bayou_blues:block/beard_moss_block" },
+			{ "model": "bayou_blues:block/beard_moss_block1" }
+				],
+        "distance=7": [
+			{ "model": "bayou_blues:block/beard_moss_block" },
+			{ "model": "bayou_blues:block/beard_moss_block1" }
+				]
+    }
+}

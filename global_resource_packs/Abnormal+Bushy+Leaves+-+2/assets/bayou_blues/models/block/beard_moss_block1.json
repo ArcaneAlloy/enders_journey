@@ -1,0 +1,7 @@
+{
+    "parent":"block/leaves_cross1",
+    "textures": {
+        "all":"bayou_blues:block/beard_moss_block",
+	"bushy": "bayou_bluesc:block/beard_moss_block_bushy1"
+    }
+}
