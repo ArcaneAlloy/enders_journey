@@ -1,0 +1,32 @@
+{
+    "variants": {
+        "distance=1": [
+			{ "model": "abundance:block/flowering_redbud_leaves" },
+			{ "model": "abundance:block/flowering_redbud_leaves1" }
+				],
+        "distance=2": [
+			{ "model": "abundance:block/flowering_redbud_leaves" },
+			{ "model": "abundance:block/flowering_redbud_leaves1" }
+				],
+        "distance=3": [
+			{ "model": "abundance:block/flowering_redbud_leaves" },
+			{ "model": "abundance:block/flowering_redbud_leaves1" }
+				],
+        "distance=4": [
+			{ "model": "abundance:block/flowering_redbud_leaves" },
+			{ "model": "abundance:block/flowering_redbud_leaves1" }
+				],
+        "distance=5": [
+			{ "model": "abundance:block/flowering_redbud_leaves" },
+			{ "model": "abundance:block/flowering_redbud_leaves1" }
+				],
+        "distance=6": [
+			{ "model": "abundance:block/flowering_redbud_leaves" },
+			{ "model": "abundance:block/flowering_redbud_leaves1" }
+				],
+        "distance=7": [
+			{ "model": "abundance:block/flowering_redbud_leaves" },
+			{ "model": "abundance:block/flowering_redbud_leaves1" }
+				]
+    }
+}

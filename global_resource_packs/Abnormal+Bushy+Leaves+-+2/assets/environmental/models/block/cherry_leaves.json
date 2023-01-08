@@ -1,0 +1,7 @@
+{
+    "parent":"block/leaves_cross",
+    "textures": {
+        "all":"environmental:block/cherry_leaves",
+	"bushy": "environmental:block/cherry_leaves_bushy"
+    }
+}

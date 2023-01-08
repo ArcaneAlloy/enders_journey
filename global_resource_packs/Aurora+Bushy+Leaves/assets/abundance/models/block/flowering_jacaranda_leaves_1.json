@@ -1,0 +1,7 @@
+{
+    "parent":"block/leaves_cross_colored",
+    "textures": {
+        "all":"abundance:block/flowering_jacaranda_leaves_1",
+	"bushy": "abundance:block/flowering_jacaranda_leaves_1_bushy"
+    }
+}

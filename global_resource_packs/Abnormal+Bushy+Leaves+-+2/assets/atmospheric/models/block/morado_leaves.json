@@ -1,0 +1,7 @@
+{
+    "parent":"block/leaves_cross",
+    "textures": {
+        "all":"atmospheric:block/morado_leaves",
+	"bushy": "atmospheric:block/morado_leaves_bushy"
+    }
+}

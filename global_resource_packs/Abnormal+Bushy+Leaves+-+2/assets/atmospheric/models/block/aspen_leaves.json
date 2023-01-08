@@ -1,0 +1,7 @@
+{
+    "parent":"block/leaves_cross",
+    "textures": {
+        "all":"atmospheric:block/aspen_leaves",
+	"bushy": "atmospheric:block/aspen_leaves_bushy"
+    }
+}
