@@ -1035,7 +1035,7 @@
 
 	[world.cave_roots]
 		"Chunk Attempts" = 300
-		"Min Y" = 16
+		"Min Y" = 30
 		"Max Y" = 52
 		"Enable Brewing" = true
 
