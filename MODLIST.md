@@ -113,6 +113,7 @@ NaturesCompass-1.16.5-1.9.1-forge.jar
 neapolitan-1.16.5-2.2.1.jar
 NetherPortalFix_1.16.3-7.2.1.jar
 OpenLoader-1.16.5-9.0.3.jar
+oculus-1.4.5.jar
 outvoted-1.16.5-1.2.4.jar
 overloadedarmorbar-5.1.0.jar
 paintings-1.16.4-7.0.0.1.jar
@@ -128,6 +129,7 @@ randompatches-2.4.4-forge.jar
 repurposed_structures_forge-3.4.7+1.16.5.jar
 RevampedWolf-1.16.4-0.7.1.jar
 rhino-forge-1605.1.5-build.75.jar
+rubidium-0.2.9.jar
 savageandravage-1.16.5-3.2.0.jar
 SaveYourPets-1.16.2-1.0.0.7.jar
 screenshot-to-clipboard-1.0.7-forge.jar
