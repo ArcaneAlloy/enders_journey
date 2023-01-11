@@ -512,7 +512,7 @@
 	"Nether Obsidian Spikes" = true
 	"New Stone Types" = true
 	"Realistic World Gen" = true
-	Speleothems = false
+	Speleothems = true
 	"Spiral Spires" = true
 	"Underground Clay" = true
 	"Brimstone Underground Biome" = true
@@ -1276,8 +1276,8 @@
 				"Cluster Count" = 10
 
 	[world.speleothems]
-		"Tries Per Chunk" = 15
-		"Speleothems Per Chunk" = 3
+		"Tries Per Chunk" = 60
+		"Speleothems Per Chunk" = 6
 		"Tries Per Chunk In Nether" = 4
 		"Speleothems Per Chunk In Nether" = 12
 		"Max Ylevel" = 55
