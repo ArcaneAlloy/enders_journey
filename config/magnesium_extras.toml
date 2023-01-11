@@ -5,12 +5,12 @@
 	[Settings.Misc]
 		"Cloud Height [Raw, Default 196]" = 196
 		"Chunk Fade In Quality (OFF, FAST, FANCY)" = "FANCY"
-		"Render Fog" = true
+		"Render Fog" = false
 		#Allowed Values: WINDOWED, BORDERLESS, FULLSCREEN
-		"Use Borderless Fullscreen" = "FULLSCREEN"
+		"Use Borderless Fullscreen" = "WINDOWED"
 
 	[Settings."FPS Counter"]
-		"Display FPS Counter (OFF, SIMPLE, ADVANCED)" = "ADVANCED"
+		"Display FPS Counter (OFF, SIMPLE, ADVANCED)" = "OFF"
 		"FPS Counter Distance" = 12
 
 	[Settings."Entity Distance"]
