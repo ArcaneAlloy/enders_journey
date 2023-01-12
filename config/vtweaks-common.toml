@@ -90,14 +90,14 @@
 	#Disables thunder storms, fixing glitched lighting from thunder and other side-effects
 	enableStormTweak = false
 	#Prints your death point in chat
-	enableDeathPoint = true
+	enableDeathPoint = false
 	#Show food hunger & saturation on item hover
 	#Allowed Values: NEVER, WITH_SHIFT, ALWAYS
 	foodTooltipSetting = "WITH_SHIFT"
 	#Makes all anvil tool repairs always cost 1 level of XP
 	enableCheapAnvilRepair = true
 	#Show a welcome message in chat when joining a world for the first time
-	enableGuideNotifier = true
+	enableGuideNotifier = false
 	#Show tool durability on item hover
 	#Allowed Values: NEVER, WITH_SHIFT, ALWAYS
 	durabilityTooltipSetting = "WITH_SHIFT"
