@@ -51,6 +51,7 @@ DarkPaintings-1.16.5-6.0.11.jar
 dash-1.16.4-1.0.1.jar
 decorative_blocks-1.16.4-1.7.2.jar
 decorative_blocks_abnormals-1.2.jar
+DefaultOptions_1.16.5-12.2.1.jar
 differentiate-1.16.5-0.5.3.jar
 dragonfight-1.8.jar
 drippyloadingscreen_forge_1.6.4_MC_1.16.2-1.16.5.jar
