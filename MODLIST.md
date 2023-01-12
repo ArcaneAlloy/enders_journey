@@ -122,7 +122,6 @@ Patchouli-1.16.4-53.3.jar
 personality-1.16.5-1.0.3.jar
 PickUpNotifier-v1.2-1.16.3.jar
 Placebo-1.16.5-4.7.0.jar
-polymorph-forge-1.16.5-0.40.jar
 PuzzlesLib-v1.0.15-1.16.5-Forge.jar
 QuarkOddities-1.16.3.jar
 Quark-r2.4-322.jar
