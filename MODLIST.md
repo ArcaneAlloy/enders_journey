@@ -37,7 +37,6 @@ charmonium-forge-1.16.5-2.3.2.jar
 Chisel-MC1.16.5-2.0.1-alpha.4.jar
 chocolate-1.3.0-1.16.4.jar
 citadel-1.8.1-1.16.5.jar
-cloth-config-4.14.54-forge.jar
 Clumps-6.0.0.28.jar
 configured-1.5.3-1.16.5.jar
 Controlling-7.0.0.28.jar
