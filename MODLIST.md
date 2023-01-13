@@ -38,6 +38,7 @@ Chisel-MC1.16.5-2.0.1-alpha.4.jar
 chocolate-1.3.0-1.16.4.jar
 citadel-1.8.1-1.16.5.jar
 Clumps-6.0.0.28.jar
+collective-1.16.5-5.49.jar
 configured-1.5.3-1.16.5.jar
 Controlling-7.0.0.28.jar
 cookielicious-1.16.5-1.4.3.jar
@@ -69,6 +70,7 @@ farsight-1.7.jar
 FastFurnace-1.16.5-4.5.0.jar
 FastWorkbench-1.16.5-4.6.1.jar
 ferritecore-2.1.0-forge.jar
+firstjoinmessage_1.16.5-1.3.jar
 fm_audio_extension_forge_1.1.1_MC_1.16.2-1.16.5.jar
 forgery-1.16-1.4.0_01.jar
 Fruitful-1.16.5-2.1.0.jar
