@@ -67,4 +67,35 @@ bossbar set mosco5 max 100
 bossbar set mosco5 value 100
 bossbar set mosco5 color blue
 
+
+bossbar add illager_king1 {"text":"illager_king"}
+bossbar set illager_king1 name {"translate":"entity.illagers_plus.illager_king"}
+bossbar set illager_king1 max 75
+bossbar set illager_king1 value 75
+bossbar set illager_king1 color red
+
+bossbar add illager_king2 {"text":"mosco"}
+bossbar set illager_king2 name {"translate":"entity.illagers_plus.illager_king"}
+bossbar set illager_king2 max 75
+bossbar set illager_king2 value 75
+bossbar set illager_king2 color red
+
+bossbar add illager_king3 {"text":"illager_king"}
+bossbar set illager_king3 name {"translate":"entity.illagers_plus.illager_king"}
+bossbar set illager_king3 max 75
+bossbar set illager_king3 value 75
+bossbar set illager_king3 color red
+
+bossbar add illager_king4 {"text":"illager_king"}
+bossbar set illager_king4 name {"translate":"entity.illagers_plus.illager_king"}
+bossbar set illager_king4 max 75
+bossbar set illager_king4 value 75
+bossbar set illager_king4 color red
+
+bossbar add illager_king5 {"text":"illager_king"}
+bossbar set illager_king5 name {"translate":"entity.illagers_plus.illager_king"}
+bossbar set illager_king5 max 75
+bossbar set illager_king5 value 75
+bossbar set illager_king5 color red
+
 schedule function ender:tick 5t
