@@ -7,6 +7,10 @@ onEvent('jei.hide.items', event => {
 	// event.hide('minecraft:cobblestone')
 		event.hide('@waystones'),
 		event.hide('charm:kiln'),
-		event.hide ('quark:backpack')
+		event.hide ('quark:backpack'),
+		event.hide ('cataclysm:enderite_block'),
+		event.hide ('cataclysm:witherite_block'),
+		event.hide ('cataclysm:enderite_ingot'),
+		event.hide ('cataclysm:witherite_ingot')
 })
 
