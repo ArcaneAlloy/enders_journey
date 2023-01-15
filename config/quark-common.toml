@@ -1090,7 +1090,7 @@
 				"Is Blacklist" = true
 
 	[world.deepslate]
-		"Sheet Height" = 18
+		"Sheet Height" = 9
 		"Sheet Height Variance" = 6
 		"Sheet Y Start" = 0
 
