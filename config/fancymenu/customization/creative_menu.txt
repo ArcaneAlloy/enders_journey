@@ -1,0 +1,33 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.inventory.CreativeScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=402382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/creative_menu/vanilla_small_button_on.png
+  backgroundnormal = resources/creative_menu/vanilla_small_button_off.png
+}
+
+customization {
+  identifier = %id=577382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/creative_menu/vanilla_small_button_on.png
+  backgroundnormal = resources/creative_menu/vanilla_small_button_off.png
+}
+
