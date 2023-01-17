@@ -9,7 +9,7 @@
 	#Entity chance override. Each entry should be a resource location and a chance, separated by a comma. EG: "minecraft:pig,100" will make all minecraft pigs have a 100 percent chance of having a hat.
 	entityOverrideChance = []
 	#Resource Location to disable hats on certain mobs. EG: minecraft:pig
-	disabledMobs = ["environmental:deer", "neapolitan:chimpanzee", "minecraft:creeper", "minecraft:shulker", "environmental:slabfish", "illagers_plus:illager_king"]
+	disabledMobs = ["environmental:deer", "neapolitan:chimpanzee", "minecraft:creeper", "minecraft:shulker", "environmental:slabfish", "illagers_plus:illager_king", "minecraft:ender_dragon", "minecraft:wither"]
 	#The weight of each of the spawn chance and rarity allocation of hats, in the order of Common, Uncommon, Rare, Epic, Legendary. Any lacking values are filled in with 0s, extra values discarded.
 	rarityWeight = ["21", "13", "8", "5", "3"]
 	#The Value (in HATs) of a Hat by rarity.
