@@ -10,7 +10,7 @@ customization-meta {
 }
 
 customization {
-  name = identifier_cad89b3b0b204d55
+  name = identifier_47eba482c964448a
   action = animatebackground
 }
 
