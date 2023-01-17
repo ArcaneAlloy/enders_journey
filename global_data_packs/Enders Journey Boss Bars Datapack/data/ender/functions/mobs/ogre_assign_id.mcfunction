@@ -1,4 +1,4 @@
-## Check if a mosco exists of an id untill either all id's are taken or it finds an unused one
+## Check if a ogre exists of an id untill either all id's are taken or it finds an unused one
 tag @s add self
 
 scoreboard players set @s boss_check 1
