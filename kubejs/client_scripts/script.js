@@ -157,7 +157,9 @@ onEvent('jei.hide.items', event => {
 		event.hide ('upgrade_aquatic:tongue_kelp'),
 		event.hide ('upgrade_aquatic:thorny_kelp'),
 		event.hide ('upgrade_aquatic:ochre_kelp'),
-		event.hide ('upgrade_aquatic:polar_kelp')
-
+		event.hide ('upgrade_aquatic:polar_kelp'),
+		event.hide ('lepton:cut_glowdust_sandstone_wall'),
+		event.hide ('lepton:smooth_glowdust_sandstone_wall'),
+		event.hide ('lepton:cut_glowdust_sandstone_stairs')
 })
 
