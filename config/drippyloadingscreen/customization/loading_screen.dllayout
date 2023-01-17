@@ -1,0 +1,49 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  backgroundcolor = #291744
+}
+
+customization {
+  visible = false
+  x = 1
+  action = editlogo
+}
+
+customization {
+  textcolor = #FFFFFF
+  action = editforgestatustext
+}
+
+customization {
+  textcolor = #FFFFFF
+  action = editforgememoryinfo
+}
+
+customization {
+  path = resources/loading_screen/book.gif
+  orientation = bottom-right
+  x = -7
+  width = 80
+  action = addtexture
+  actionid = 15c9894a-353c-480c-a5d6-9bba4560cf441673950275050
+  y = -10
+  height = 80
+}
+
+customization {
+  path = resources/loading_screen/logo.gif
+  orientation = mid-centered
+  x = 0
+  width = 348
+  action = addtexture
+  actionid = 74eb48a4-8d31-4641-a0e2-60fd459413491673950339679
+  y = -32
+  height = 100
+}
+
