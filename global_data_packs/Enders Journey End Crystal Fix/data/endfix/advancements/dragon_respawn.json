@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "title": "",
+        "description": "",
+        "announce_to_chat": false,
+        "hidden": true,
+        "show_toast": false
+    },
+    "criteria": {
+        "dragon": {
+            "trigger": "summoned_entity",
+            "conditions": {
+                "entity": {
+                    "type": "ender_dragon"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "endfix:fix_end_crystals"
+    }
+}
