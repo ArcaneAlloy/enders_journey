@@ -87,6 +87,7 @@ iChunUtil-1.16.5-10.6.1.jar
 illagers_plus-1.16.5v1.0.2.jar
 infernal-expansion-1.16.5-2.5.0.jar
 Inspirations-1.16.5-1.2.3.38.jar
+InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar
 ironchest-1.16.5-11.2.21.jar
 itemzoom-1.16.4-2.3.1.jar
 Jade-1.16.4-2.8.3.jar
