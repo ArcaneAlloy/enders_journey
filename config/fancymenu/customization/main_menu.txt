@@ -367,3 +367,14 @@ customization {
   height = 20
 }
 
+customization {
+  path = resources/main_menu/logo.gif
+  orientation = top-centered
+  x = -104
+  width = 298
+  action = addtexture
+  actionid = f58c2830-d016-49e2-a03e-76cd8309b0ed1673987646197
+  y = 18
+  height = 50
+}
+
