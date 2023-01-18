@@ -1,0 +1,24 @@
+{
+    "providers": [
+	{ "type": "bitmap",
+            "file": "minecraft:font/crystal_gui1.png",
+            "ascent": 0, "height": 32,
+            "chars": ["\uf001"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/crystal_gui2.png",
+            "ascent": 0, "height": 32,
+            "chars": ["\uf002"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/crystal_gui3.png",
+            "ascent": 0, "height": 32,
+            "chars": ["\uf003"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/crystal_spacing.png",
+            "ascent": 0, "height": 16,
+            "chars": ["\uf004"]
+        }
+    ]
+}
