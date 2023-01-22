@@ -8,10 +8,6 @@ onEvent('jei.hide.items', event => {
 		event.hide('@waystones'),
 		event.hide('charm:kiln'),
 		event.hide ('quark:backpack'),
-		event.hide ('cataclysm:enderite_block'),
-		event.hide ('cataclysm:witherite_block'),
-		event.hide ('cataclysm:enderite_ingot'),
-		event.hide ('cataclysm:witherite_ingot'),
 		event.hide ('atmospheric:kousa_planks'),
 		event.hide ('atmospheric:kousa_log'),
 		event.hide ('atmospheric:grimwood_planks'),
@@ -161,5 +157,6 @@ onEvent('jei.hide.items', event => {
 		event.hide ('lepton:cut_glowdust_sandstone_wall'),
 		event.hide ('lepton:smooth_glowdust_sandstone_wall'),
 		event.hide ('lepton:cut_glowdust_sandstone_stairs')
+
 })
 
