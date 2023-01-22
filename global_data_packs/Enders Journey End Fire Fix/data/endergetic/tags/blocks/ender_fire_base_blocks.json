@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "values": [
+    "endergetic:eumus",
+    "endergetic:eumus_poismoss",
+    "endergetic:eumus_bricks",
+    "endergetic:chiseled_eumus_bricks",
+    "endergetic:cracked_eumus_bricks",
+    "endergetic:eumus_brick_slab",
+    "endergetic:eumus_brick_stairs",
+    "endergetic:eumus_brick_wall",
+    "endergetic:eumus_brick_vertical_slab",
+    "endergetic:poismoss"
+  ],
+  "optional": [
+  ]
+}
