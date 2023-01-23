@@ -1,0 +1,16 @@
+{
+    "result": {
+        "item": "cataclysm:ignitium_block"
+    },
+    "type": "crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    "key": {
+        "X" : {
+            "item": "cataclysm:ignitium_ingot"
+        }
+    }
+}
