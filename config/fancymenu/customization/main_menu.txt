@@ -109,7 +109,7 @@ customization {
   orientation = top-left
   x = 10
   action = movebutton
-  y = 25
+  y = 3
 }
 
 customization {
@@ -270,11 +270,11 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 251
+  x = 411
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 71a2820f-b54e-470b-8e21-cff68672e1931667101256359
-  y = 231
+  y = 314
   height = 9
 }
 
