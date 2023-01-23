@@ -1,0 +1,25 @@
+{
+    "result": {
+        "item": "cataclysm:bulwark_of_the_flame"
+    },
+    "type": "crafting_shaped",
+    "pattern": [
+        "NIN",
+        "BSB",
+        "NNN"
+    ],
+    "key": {
+        "I" : {
+            "item": "cataclysm:ignitium_ingot"
+        },
+        "B" : {
+            "item": "minecraft:blaze_rod"
+        },
+        "S" : {
+            "item": "minecraft:shield"
+        },
+        "N" : {
+            "item": "minecraft:nether_brick"
+        }
+    }
+}
