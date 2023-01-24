@@ -98,4 +98,35 @@ bossbar set illager_king5 max 75
 bossbar set illager_king5 value 75
 bossbar set illager_king5 color red
 
+
+bossbar add ender_golem1 {"text":"ender_golem"}
+bossbar set ender_golem1 name {"translate":"entity.cataclysm.ender_golem"}
+bossbar set ender_golem1 max 200
+bossbar set ender_golem1 value 200
+bossbar set ender_golem1 color purple
+
+bossbar add ender_golem2 {"text":"mosco"}
+bossbar set ender_golem2 name {"translate":"entity.cataclysm.ender_golem"}
+bossbar set ender_golem2 max 200
+bossbar set ender_golem2 value 200
+bossbar set ender_golem2 color purple
+
+bossbar add ender_golem3 {"text":"ender_golem"}
+bossbar set ender_golem3 name {"translate":"entity.cataclysm.ender_golem"}
+bossbar set ender_golem3 max 200
+bossbar set ender_golem3 value 200
+bossbar set ender_golem3 color purple
+
+bossbar add ender_golem4 {"text":"ender_golem"}
+bossbar set ender_golem4 name {"translate":"entity.cataclysm.ender_golem"}
+bossbar set ender_golem4 max 200
+bossbar set ender_golem4 value 200
+bossbar set ender_golem4 color purple
+
+bossbar add ender_golem5 {"text":"ender_golem"}
+bossbar set ender_golem5 name {"translate":"entity.cataclysm.ender_golem"}
+bossbar set ender_golem5 max 200
+bossbar set ender_golem5 value 200
+bossbar set ender_golem5 color purple
+
 schedule function ender:tick 5t
