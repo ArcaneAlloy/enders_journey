@@ -76,65 +76,11 @@ onEvent('recipes', event => {
 			S: 'minecraft:string'
 		  })
 
-		// Add craft for the Ignitium Block
-		event.shaped('1x cataclysm:ignitium_block', [
-			'III',
-			'III',
-			'III'
-		  ], {
-			I: 'cataclysm:ignitium_ingot'
-		  })
-
-		// Add craft for the Witherite Block
-		event.shaped('1x cataclysm:witherite_block', [
-			'WWW',
-			'WWW',
-			'WWW'
-		  ], {
-			W: 'cataclysm:witherite_ingot'
-		  })
-
-		// Add craft for the Enderite Block
-		event.shaped('1x cataclysm:enderite_block', [
-			'EEE',
-			'EEE',
-			'EEE'
-		  ], {
-			E: 'cataclysm:enderite_ingot'
-		  })
-
-		// Add craft for the Ignitium Ingot from Ignitium Block
-		event.shapeless(Item.of('9x cataclysm:ignitium_ingot'), ['cataclysm:ignitium_block'])
-
-		// Add craft for the Witherite Ingot from Witherite Block
-		event.shapeless(Item.of('9x cataclysm:witherite_ingot'), ['cataclysm:witherite_block'])
-
-		// Add craft for the Enderite Ingot from Enderite Block
-		event.shapeless(Item.of('9x cataclysm:enderite_ingot'), ['cataclysm:enderite_block'])
-
-		// Add craft for the Bulwark Of the Flame (Shield)
-		event.shaped('1x cataclysm:bulwark_of_the_flame', [
-			'NIN',
-			'BSB',
-			'NNN'
-		  ], {
-			I: 'cataclysm:ignitium_ingot',
-			N: 'minecraft:nether_brick',
-			B: 'minecraft:blaze_rod',
-			S: 'outvoted:wildfire_shield'
-		  })
-
 		// Add craft for the Final Fractal
 		event.smithing('cataclysm:final_fractal', 'minecraft:netherite_sword', 'cataclysm:witherite_ingot')
 
 		// Add craft for the Zweiender
 		event.smithing('cataclysm:zweiender', 'cataclysm:final_fractal', 'cataclysm:enderite_ingot')
-
-		// Add crafts for the Ignitium Armor
-		event.smithing('cataclysm:ignitium_helmet', 'minecraft:netherite_helmet', 'cataclysm:ignitium_ingot')
-		event.smithing('cataclysm:ignitium_chestplate', 'minecraft:netherite_chestplate', 'cataclysm:ignitium_ingot')
-		event.smithing('cataclysm:ignitium_leggings', 'minecraft:netherite_leggings', 'cataclysm:ignitium_ingot')
-		event.smithing('cataclysm:ignitium_boots', 'minecraft:netherite_boots', 'cataclysm:ignitium_ingot')
 
 		// Remove Waystones Crafts
 		event.remove({output: 'waystones:return_scroll'})
