@@ -43,6 +43,7 @@ configured-1.5.3-1.16.5.jar
 Controlling-7.0.0.28.jar
 cookielicious-1.16.5-1.4.3.jar
 CosmeticArmorReworked-1.16.5-v5.jar
+CooperativeAdvancements-1.16.5-forge-1.3.0.jar
 crumbs-forge-1.0.7.jar
 CTM-MC1.16.1-1.1.2.6.jar
 curios-forge-1.16.5-4.0.5.3.jar
