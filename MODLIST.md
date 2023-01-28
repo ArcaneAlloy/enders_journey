@@ -110,6 +110,7 @@ magnesium_extras-mc1.16.5_v1.4.0.jar
 Mantle-1.16.5-1.6.157.jar
 meetyourfight-1.16.5-1.2.0.jar
 mgui-1.16.5-3.3.0.jar
+mobifier-1.1.4.jar
 modnametooltip_1.16.2-1.15.0.jar
 MouseTweaks-2.14-mc1.16.2.jar
 NaturesCompass-1.16.5-1.9.1-forge.jar
