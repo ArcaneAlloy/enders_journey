@@ -58,6 +58,7 @@ dragonfight-1.8.jar
 drippyloadingscreen_forge_1.6.4_MC_1.16.2-1.16.5.jar
 dungeons_enhanced-1.16.5-1.8.1.jar
 dungeons_plus-1.16.5-1.1.5.jar
+dynmus-1.3.1.jar
 EnchantmentDescriptions-1.16.5-7.1.20.jar
 endergetic-1.16.5-3.0.2.jar
 endrem-5.0.3-R-1.16.5.jar
@@ -115,6 +116,7 @@ mobifier-1.1.4.jar
 modernworldcreation_1.0.0_MC_1.16.2-1.16.5.jar
 modnametooltip_1.16.2-1.15.0.jar
 MouseTweaks-2.14-mc1.16.2.jar
+musicdr-forge-1.2.0.jar
 NaturesCompass-1.16.5-1.9.1-forge.jar
 neapolitan-1.16.5-2.2.1.jar
 NetherPortalFix_1.16.3-7.2.1.jar
