@@ -1,0 +1,12 @@
+{
+    "result": {
+        "item": "cataclysm:witherite_ingot",
+        "count": 9
+    },
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cataclysm:witherite_block"
+        }
+    ]
+}
