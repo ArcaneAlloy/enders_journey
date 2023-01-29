@@ -16,7 +16,7 @@
             "item": "minecraft:blaze_rod"
         },
         "S" : {
-            "item": "minecraft:shield"
+            "item": "outvoted:wildfire_shield"
         },
         "N" : {
             "item": "minecraft:nether_brick"

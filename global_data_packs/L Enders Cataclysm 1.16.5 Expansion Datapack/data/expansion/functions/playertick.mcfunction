@@ -1,0 +1,1 @@
+execute as @s[nbt={Inventory:[{Slot:-106b,id:"cataclysm:bulwark_of_the_flame"}]}] run function expansion:items/use_bulwark
