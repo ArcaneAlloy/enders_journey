@@ -274,7 +274,7 @@ customization {
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 71a2820f-b54e-470b-8e21-cff68672e1931667101256359
-  y = 314
+  y = 331
   height = 9
 }
 
@@ -327,7 +327,7 @@ customization {
   action = addbutton
   y = 25
   backgroundnormal = resources/main_menu/discord_button_off.png
-  value = https://google.com
+  value = https://discord.gg/RjWCgrnBZz
   height = 20
 }
 
@@ -345,7 +345,7 @@ customization {
   action = addbutton
   y = 0
   backgroundnormal = resources/main_menu/curseforge_button_off.png
-  value = 
+  value = https://www.curseforge.com/minecraft/modpacks/enders-journey
   height = 20
 }
 
@@ -363,7 +363,7 @@ customization {
   action = addbutton
   y = 0
   backgroundnormal = resources/main_menu/bug_button_off.png
-  value = 
+  value = https://github.com/PreciseModpacker/enders_journey/issues
   height = 20
 }
 
