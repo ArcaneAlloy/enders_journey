@@ -1,0 +1,16 @@
+{
+    "result": {
+        "item": "cataclysm:enderite_block"
+    },
+    "type": "crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XXX",
+        "XXX"
+    ],
+    "key": {
+        "X" : {
+            "item": "cataclysm:enderite_ingot"
+        }
+    }
+}
