@@ -10,12 +10,11 @@
         "show_toast": false
     },
     "criteria": {
-        "dragon": {
-            "trigger": "summoned_entity",
+        "Gold Ingot": {
+            "trigger": "minecraft:changed_dimension",
             "conditions": {
-                "entity": {
-                    "type": "ender_dragon"
-                }
+                "from": "overworld",
+                "to": "the_end"
             }
         }
     },
