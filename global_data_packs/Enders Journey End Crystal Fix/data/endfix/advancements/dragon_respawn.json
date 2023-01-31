@@ -20,6 +20,6 @@
         }
     },
     "rewards": {
-        "function": "endfix:schedule"
+        "function": "endfix:fix_end_crystals_dragon_respawn"
     }
 }
