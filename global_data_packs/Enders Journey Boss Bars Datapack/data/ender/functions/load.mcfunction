@@ -39,32 +39,32 @@ bossbar set ogre5 color green
 
 bossbar add mosco1 {"text":"mosco"}
 bossbar set mosco1 name {"translate":"entity.alexsmobs.warped_mosco"}
-bossbar set mosco1 max 100
-bossbar set mosco1 value 100
+bossbar set mosco1 max 250
+bossbar set mosco1 value 250
 bossbar set mosco1 color blue
 
 bossbar add mosco2 {"text":"mosco"}
 bossbar set mosco2 name {"translate":"entity.alexsmobs.warped_mosco"}
-bossbar set mosco2 max 100
-bossbar set mosco2 value 100
+bossbar set mosco2 max 250
+bossbar set mosco2 value 250
 bossbar set mosco2 color blue
 
 bossbar add mosco3 {"text":"mosco"}
 bossbar set mosco3 name {"translate":"entity.alexsmobs.warped_mosco"}
-bossbar set mosco3 max 100
-bossbar set mosco3 value 100
+bossbar set mosco3 max 250
+bossbar set mosco3 value 250
 bossbar set mosco3 color blue
 
 bossbar add mosco4 {"text":"mosco"}
 bossbar set mosco4 name {"translate":"entity.alexsmobs.warped_mosco"}
-bossbar set mosco4 max 100
-bossbar set mosco4 value 100
+bossbar set mosco4 max 250
+bossbar set mosco4 value 250
 bossbar set mosco4 color blue
 
 bossbar add mosco5 {"text":"mosco"}
 bossbar set mosco5 name {"translate":"entity.alexsmobs.warped_mosco"}
-bossbar set mosco5 max 100
-bossbar set mosco5 value 100
+bossbar set mosco5 max 250
+bossbar set mosco5 value 250
 bossbar set mosco5 color blue
 
 
