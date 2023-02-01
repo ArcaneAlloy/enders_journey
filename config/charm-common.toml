@@ -84,7 +84,7 @@
 "MoreVillageBiomes enabled" = true
 #Playing a record in a jukebox stops background music from playing at the same.
 #Creative music tracks may also play in survival mode.
-"MusicImprovements enabled" = true
+"MusicImprovements enabled" = false
 #Netherite nuggets can be combined to create a netherite ingot.
 "NetheriteNuggets enabled" = true
 #Parrots stay on your shoulder when jumping and falling. Crouch to make them dismount.
