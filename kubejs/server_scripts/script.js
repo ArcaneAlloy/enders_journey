@@ -27,6 +27,9 @@ onEvent('recipes', event => {
 			E: 'minecraft:ender_eye'
 		  })
 
+		// Remove default Backpack craft recipe
+		event.remove({output: 'backpacked:backpack'})
+
 		// Add Craft for Backpack with common Leathers
 		event.shaped('1x backpacked:backpack', [
 			'LLL',
