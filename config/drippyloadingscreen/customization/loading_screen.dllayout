@@ -26,6 +26,11 @@ customization {
 }
 
 customization {
+  action = editprogressbar
+  y = -70
+}
+
+customization {
   path = resources/loading_screen/book.gif
   orientation = bottom-right
   x = -7
