@@ -128,4 +128,21 @@ onEvent('item.tags', event => {
 
 		// Add Rabbit Hide to Leather tag
 		event.add('forge:leather', 'minecraft:rabbit_hide')
+
+		// Add Music Discs to Music Dics tag
+		event.add('minecraft:music_discs', 'infernalexp:music_disc_soul_spunk')
+		event.add('minecraft:music_discs', 'infernalexp:music_disc_flush')
+		event.add('minecraft:music_discs', 'alexsmobs:music_disc_thime')
+		event.add('minecraft:music_discs', 'alexsmobs:music_disc_daze')
+		event.add('minecraft:music_discs', 'cataclysm:music_disc_netherite_monstrosity')
+		event.add('minecraft:music_discs', 'cataclysm:music_disc_ender_guardian')
+		event.add('minecraft:music_discs', 'quark:music_disc_drips')
+		event.add('minecraft:music_discs', 'quark:music_disc_ocean')
+		event.add('minecraft:music_discs', 'quark:music_disc_rain')
+		event.add('minecraft:music_discs', 'quark:music_disc_wind')
+		event.add('minecraft:music_discs', 'quark:music_disc_fire')
+		event.add('minecraft:music_discs', 'quark:music_disc_clock')
+		event.add('minecraft:music_discs', 'quark:music_disc_crickets')
+		event.add('minecraft:music_discs', 'quark:music_disc_chatter')
+		event.add('minecraft:music_discs', 'quark:music_disc_endermosh')
 })
