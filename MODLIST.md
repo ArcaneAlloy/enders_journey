@@ -159,6 +159,7 @@ VisualWorkbench-v1.1.0-1.16.5.jar
 voidtotem-1.16.5-1.4.0.jar
 VTweaks-1.16.4-3.6.2.jar
 Waystones_1.16.5-7.6.4.jar
+w2w-1.16.1-0.0.5.2.jar
 windowlogging-mc1.16.5_v0.0.5.jar
 Xaeros_Minimap_22.15.1_Forge_1.16.5.jar
 XaerosWorldMap_1.28.0_Forge_1.16.5.jar
