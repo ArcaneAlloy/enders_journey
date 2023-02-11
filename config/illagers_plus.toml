@@ -58,7 +58,7 @@
 	centre_categories = ["desert", "extreme_hills", "forest", "icy", "jungle", "mesa", "mushroom", "none", "plains", "savanna", "swamp", "taiga"]
 	#+--------------------------------------------------------------------------------------------------+
 	#Biome Categories for Illager Fort to spawn in
-	fort_categories = ["desert", "forest", "jungle", "mesa", "mushroom", "none", "plains", "savanna"]
+	fort_categories = ["plains"]
 	#+--------------------------------------------------------------------------------------------------+
 	#Biome Categories for Illager Mine to spawn in
 	mine_categories = ["desert", "mesa", "mushroom", "none", "savanna"]
