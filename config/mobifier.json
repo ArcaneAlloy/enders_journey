@@ -2078,7 +2078,7 @@
           "minecraft:generic.armor": "*1",
           "forge:entity_gravity": "*1",
           "minecraft:generic.armor_toughness": "*1",
-          "minecraft:generic.max_health": "*1",
+          "minecraft:generic.max_health": "*2",
           "minecraft:generic.luck": "*1",
           "minecraft:generic.follow_range": "*1",
           "forge:reach_distance": "*1",
