@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bib",
+        "sts",
+        " b "
+    ],
+    "key": {
+        "i" : {
+            "item": "alexsmobs:tarantula_hawk_stinger"
+        },
+        "s" : {
+            "item": "minecraft:string"
+        },
+        "b" : {
+            "item": "minecraft:stick"
+        },
+        "t" : {
+            "item": "minecraft:tripwire_hook"
+        }
+    }, 
+    "result":
+    {
+        "type": "forge:nbt",
+        "item": "minecraft:crossbow",
+        "nbt": "{CustomModelData:102,modify_damage:1b,custom_crossbow:1,display:{Name:'[{\"text\":\"Spider Slayer\",\"color\":\"yellow\",\"italic\": false}]',Lore:['[{\"text\":\"Imbued with a strong poison that paralyzes and kills any arachnic.\",\"italic\": false,\"color\":\"dark_green\"}]']}}"
+    }
+}

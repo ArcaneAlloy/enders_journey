@@ -1,0 +1,1 @@
+give @s cataclysm:zweiender{AttributeModifiers:[{AttributeName:"generic.attack_damage",Amount:8.5,Slot:"mainhand",Name:"generic.attack_damage",UUID:[I;-123113,2018,7121,-4036]},{AttributeName:"generic.attack_speed",Amount:-2.4,Slot:"mainhand",Name:"generic.attack_speed",UUID:[I;-123117,21801,132733,-43602]}]}

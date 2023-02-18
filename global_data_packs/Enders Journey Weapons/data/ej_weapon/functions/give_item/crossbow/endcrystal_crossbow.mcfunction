@@ -1,0 +1,1 @@
+give @s crossbow{CustomModelData:104,modify_damage:1b,Unbreakable:1b,custom_crossbow:3,display:{Name:'{"text":"End Crystal Crossbow","color":"white","italic": false}'}}
