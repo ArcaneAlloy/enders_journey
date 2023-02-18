@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ms",
+        "e s",
+        " ms"
+    ],
+    "key": {
+        "e" : {
+            "item": "alexsmobs:void_worm_eye"
+        },
+        "s" : {
+            "item": "minecraft:string"
+        },
+        "m" : {
+            "item": "alexsmobs:void_worm_mandible"
+        }
+    }, 
+    "result":
+    {
+        "type": "forge:nbt",
+        "item": "minecraft:bow",
+        "nbt": "{CustomModelData:104,modify_damage:1b,Unbreakable:1b,custom_bow:3,display:{Name:'[{\"text\":\"Eater of Worlds\",\"color\":\"light_purple\",\"italic\": false}]',Lore:['[{\"text\":\"You can feel the power of the void when you hold this bow.\",\"italic\": false,\"color\":\"dark_green\"}]','[{\"text\":\"If an arrow fired from this bow falls to the ground, any creatures around it will take damage.\",\"italic\": false,\"color\":\"dark_green\"}]']}}"
+    }
+}

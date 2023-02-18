@@ -78,12 +78,12 @@ onEvent('recipes', event => {
 			L: '#forge:leather',
 			S: 'minecraft:string'
 		  })
+	
+		// Add craft for the Final Fractal, we use the Enders Journey Weapons Datapack to add an alternative of this weapon
+		//event.smithing('cataclysm:final_fractal', 'minecraft:netherite_sword', 'cataclysm:witherite_ingot')
 
-		// Add craft for the Final Fractal
-		event.smithing('cataclysm:final_fractal', 'minecraft:netherite_sword', 'cataclysm:witherite_ingot')
-
-		// Add craft for the Zweiender
-		event.smithing('cataclysm:zweiender', 'cataclysm:final_fractal', 'cataclysm:enderite_ingot')
+		// Add craft for the Zweiender, we use the Enders Journey Weapons Datapack to add an alternative of this weapon
+		// event.smithing('cataclysm:zweiender', 'minecraft:diamond_sword', 'cataclysm:enderite_ingot')
 
 		// Remove Waystones Crafts
 		event.remove({output: 'waystones:return_scroll'})
@@ -128,7 +128,7 @@ onEvent('item.tags', event => {
 
 		// Add Rabbit Hide to Leather tag
 		event.add('forge:leather', 'minecraft:rabbit_hide')
-
+		
 		// Add Music Discs to Music Dics tag
 		event.add('minecraft:music_discs', 'infernalexp:music_disc_soul_spunk')
 		event.add('minecraft:music_discs', 'infernalexp:music_disc_flush')

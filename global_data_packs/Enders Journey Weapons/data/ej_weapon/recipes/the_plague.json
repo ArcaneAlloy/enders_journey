@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ns",
+        "h s",
+        " ns"
+    ],
+    "key": {
+        "h" : {
+            "item": "alexsmobs:soul_heart"
+        },
+        "s" : {
+            "item": "minecraft:string"
+        },
+        "n" : {
+            "item": "cataclysm:witherite_ingot"
+        }
+    }, 
+    "result":
+    {
+        "type": "forge:nbt",
+        "item": "minecraft:bow",
+        "nbt": "{CustomModelData:105,modify_damage:1b,Unbreakable:1b,custom_bow:4,display:{Name:'[{\"text\":\"The Plague\",\"color\":\"light_purple\",\"italic\": false}]',Lore:['[{\"text\":\"The arrows from this bow corrupt the soul of any creature, dealing considerable damage.\",\"italic\": false,\"color\":\"dark_green\"}]']}}"
+    }
+}

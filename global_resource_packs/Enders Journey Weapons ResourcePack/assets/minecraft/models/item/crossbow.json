@@ -1,0 +1,118 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/crossbow_standby"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                -90,
+                0,
+                -60
+            ],
+            "translation": [
+                2,
+                0.1,
+                -3
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                -90,
+                0,
+                30
+            ],
+            "translation": [
+                2,
+                0.1,
+                -3
+            ],
+            "scale": [
+                0.9,
+                0.9,
+                0.9
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                -90,
+                0,
+                -55
+            ],
+            "translation": [
+                1.13,
+                3.2,
+                1.13
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                -90,
+                0,
+                35
+            ],
+            "translation": [
+                1.13,
+                3.2,
+                1.13
+            ],
+            "scale": [
+                0.68,
+                0.68,
+                0.68
+            ]
+        }
+    },
+    "overrides": [
+        {"predicate": {"pulling": 1},"model": "item/crossbow_pulling_0"},
+        {"predicate": {"pulling": 1, "pull": 0.58},"model": "item/crossbow_pulling_1"},
+        {"predicate": {"pulling": 1,"pull": 1.0},"model": "item/crossbow_pulling_2"},
+        {"predicate": {"charged": 1},"model": "item/crossbow_arrow"},
+        {"predicate": {"charged": 1,"firework": 1},"model": "item/crossbow_firework"},
+
+        {"predicate": {"custom_model_data": 102},"model": "item/custom_crossbows/spider_slayer"},
+        {"predicate": {"custom_model_data": 102, "pulling": 1},"model": "item/custom_crossbows/spider_slayer_pulling_0"},
+        {"predicate": {"custom_model_data": 102, "pulling": 1, "pull": 0.58},"model": "item/custom_crossbows/spider_slayer_pulling_1"},
+        {"predicate": {"custom_model_data": 102, "pulling": 1,"pull": 1.0},"model": "item/custom_crossbows/spider_slayer_pulling_2"},
+        {"predicate": {"custom_model_data": 102, "charged": 1},"model": "item/custom_crossbows/spider_slayer_arrow"},
+        {"predicate": {"custom_model_data": 102, "charged": 1,"firework": 1},"model": "item/custom_crossbows/spider_slayer_firework"},
+
+        {"predicate": {"custom_model_data": 103},"model": "item/custom_crossbows/netherite"},
+        {"predicate": {"custom_model_data": 103, "pulling": 1},"model": "item/custom_crossbows/netherite_pulling_0"},
+        {"predicate": {"custom_model_data": 103, "pulling": 1, "pull": 0.58},"model": "item/custom_crossbows/netherite_pulling_1"},
+        {"predicate": {"custom_model_data": 103, "pulling": 1,"pull": 1.0},"model": "item/custom_crossbows/netherite_pulling_2"},
+        {"predicate": {"custom_model_data": 103, "charged": 1},"model": "item/custom_crossbows/netherite_arrow"},
+        {"predicate": {"custom_model_data": 103, "charged": 1,"firework": 1},"model": "item/custom_crossbows/netherite_firework"},
+
+        {"predicate": {"custom_model_data": 104},"model": "item/custom_crossbows/end_crystal"},
+        {"predicate": {"custom_model_data": 104, "pulling": 1},"model": "item/custom_crossbows/end_crystal_pulling_0"},
+        {"predicate": {"custom_model_data": 104, "pulling": 1, "pull": 0.58},"model": "item/custom_crossbows/end_crystal_pulling_1"},
+        {"predicate": {"custom_model_data": 104, "pulling": 1,"pull": 1.0},"model": "item/custom_crossbows/end_crystal_pulling_2"},
+        {"predicate": {"custom_model_data": 104, "charged": 1},"model": "item/custom_crossbows/end_crystal_arrow"},
+        {"predicate": {"custom_model_data": 104, "charged": 1,"firework": 1},"model": "item/custom_crossbows/end_crystal_firework"},
+
+        {"predicate": {"custom_model_data": 105},"model": "item/custom_crossbows/zero_gravity"},
+        {"predicate": {"custom_model_data": 105, "pulling": 1},"model": "item/custom_crossbows/zero_gravity_pulling_0"},
+        {"predicate": {"custom_model_data": 105, "pulling": 1, "pull": 0.58},"model": "item/custom_crossbows/zero_gravity_pulling_1"},
+        {"predicate": {"custom_model_data": 105, "pulling": 1,"pull": 1.0},"model": "item/custom_crossbows/zero_gravity_pulling_2"},
+        {"predicate": {"custom_model_data": 105, "charged": 1},"model": "item/custom_crossbows/zero_gravity_arrow"},
+        {"predicate": {"custom_model_data": 105, "charged": 1,"firework": 1},"model": "item/custom_crossbows/zero_gravity_firework"},
+
+        {"predicate": {"custom_model_data": 106},"model": "item/custom_crossbows/pyron"},
+        {"predicate": {"custom_model_data": 106, "pulling": 1},"model": "item/custom_crossbows/pyron_pulling_0"},
+        {"predicate": {"custom_model_data": 106, "pulling": 1, "pull": 0.58},"model": "item/custom_crossbows/pyron_pulling_1"},
+        {"predicate": {"custom_model_data": 106, "pulling": 1,"pull": 1.0},"model": "item/custom_crossbows/pyron_pulling_2"},
+        {"predicate": {"custom_model_data": 106, "charged": 1},"model": "item/custom_crossbows/pyron_arrow"},
+        {"predicate": {"custom_model_data": 106, "charged": 1,"firework": 1},"model": "item/custom_crossbows/pyron_firework"}
+    ]
+}

@@ -1,0 +1,1 @@
+give @s bow{CustomModelData:105,modify_damage:1b,Unbreakable:1b,custom_bow:4,display:{Name:'[{"text":"The Plague","color":"light_purple","italic": false}]',Lore:['[{"text":"The arrows from this bow corrupt the soul of any creature, dealing considerable damage.","italic": false,"color":"dark_green"}]']}}

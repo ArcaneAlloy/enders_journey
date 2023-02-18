@@ -1,0 +1,1 @@
+give @s crossbow{CustomModelData:105,modify_damage:1b,Unbreakable:1b,custom_crossbow:4,display:{Name:'[{"text":"Zero Gravity","color":"light_purple","italic": false}]',Lore:['[{"text":"Any creature that takes an arrow fired from this crossbow will defy the laws of gravity for a few brief moments.","italic": false,"color":"dark_green"}]']}}
