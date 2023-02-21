@@ -1,1 +1,0 @@
-give @s bow{CustomModelData:103,modify_damage:1b,Unbreakable:1b,custom_bow:2,display:{Name:'{"text":"End Crystal Bow","color":"white","italic": false}'}}

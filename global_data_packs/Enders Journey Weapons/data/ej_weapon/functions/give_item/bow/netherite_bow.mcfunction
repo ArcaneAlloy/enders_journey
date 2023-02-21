@@ -1,1 +1,0 @@
-give @s bow{CustomModelData:102,modify_damage:1b,Unbreakable:1b,custom_bow:1,unburnable:1b,display:{Name:'{"text":"Netherite Bow","color":"white","italic": false}'}}
