@@ -32,7 +32,7 @@
 	#Prevents mobs from spawning above sea level unless it's a new moon
 	peacefulSurfaceEnabled = false
 	#Any time a Baby Zombie (or Zombie Piglin) spawns, it will be replaced with an adult
-	disableBabyZombies = true
+	disableBabyZombies = false
 	#A list of dimensions (of form <modid:type>) to ignore when prevent surface mob spawns.
 	peacefulSurfaceDimBlacklist = ["minecraft:the_nether", "minecraft:the_end"]
 	#Allows chicken feathers to be plucked w/ shears
@@ -42,7 +42,7 @@
 	#Range: 0.0 ~ 1.0
 	challengerMobGlobalChance = 0.25
 	#Allows you to gear up tamed pets any armor and/or weapon. Doesn't render, but DOES work!
-	enablePetArmory = true
+	enablePetArmory = false
 	#The lowest Y-level which mobs will be prevented from spawning
 	#Range: 1 ~ 255
 	peacefulSurfaceMinY = 60
