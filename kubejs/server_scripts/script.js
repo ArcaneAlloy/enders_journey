@@ -79,6 +79,20 @@ onEvent('recipes', event => {
 			S: 'minecraft:string'
 		  })
 	
+	    // Add craft for the Trident, unifying the other 3 craft recipes
+		  event.remove({output: 'outvoted:prismarine_rod'}),
+		  event.remove({output: 'minecraft:trident'}),
+		  event.remove({output: 'charm:extra_recipes/trident'}),
+		  event.remove({output: 'upgrade_aquatic:trident'}),		  
+		  event.shaped('1x minecraft:trident', [
+			' II',
+			' RI',
+			'R  '
+		  ], {
+			I: '#forge:trident_ingredients',
+			R: 'upgrade_aquatic:prismarine_rod'
+		  })		
+	
 		// Add craft for the Final Fractal, we use the Enders Journey Weapons Datapack to add an alternative of this weapon
 		//event.smithing('cataclysm:final_fractal', 'minecraft:netherite_sword', 'cataclysm:witherite_ingot')
 
@@ -145,4 +159,9 @@ onEvent('item.tags', event => {
 		event.add('minecraft:music_discs', 'quark:music_disc_crickets')
 		event.add('minecraft:music_discs', 'quark:music_disc_chatter')
 		event.add('minecraft:music_discs', 'quark:music_disc_endermosh')
+		
+		// Add Trident ingredients tags
+		event.add('forge:trident_ingredients', 'outvoted:kraken_tooth')
+		event.add('forge:trident_ingredients', 'minecraft:prismarine_crystals')
+		event.add('forge:trident_ingredients', 'upgrade_aquatic:thrasher_tooth')
 })
