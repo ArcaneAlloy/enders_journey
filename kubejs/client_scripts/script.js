@@ -157,6 +157,7 @@ onEvent('jei.hide.items', event => {
 		event.hide ('lepton:cut_glowdust_sandstone_wall'),
 		event.hide ('lepton:smooth_glowdust_sandstone_wall'),
 		event.hide ('lepton:cut_glowdust_sandstone_stairs'),
-		event.hide ('cataclysm:final_fractal')
+		event.hide ('cataclysm:final_fractal'),
+		event.hide ('outvoted:prismarine_rod')
 
 })
