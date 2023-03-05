@@ -1,0 +1,26 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+					"weight": 1,
+                    "name": "alexsmobs:tarantula_hawk_wing_fragment"
+                }
+				
+            ]
+        },
+		{
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+					"weight": 1,
+                    "name": "alexsmobs:tarantula_hawk_stinger"
+                }
+				
+            ]
+        }
+    ]
+}

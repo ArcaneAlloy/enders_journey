@@ -1,0 +1,1 @@
+give @s crossbow{CustomModelData:102,modify_damage:1b,custom_crossbow:1,display:{Name:'[{"text":"Spider Slayer","color":"yellow","italic": false}]',Lore:['[{"text":"Imbued with a strong poison that paralyzes and kills any arachnic.","italic": false,"color":"dark_green"}]']}}

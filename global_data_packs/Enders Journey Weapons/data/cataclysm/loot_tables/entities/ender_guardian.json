@@ -1,0 +1,48 @@
+{
+    "pools": [
+        {
+            "rolls": 2,
+            "entries": [
+                {
+                    "type": "item",
+					"weight": 1,
+                    "name": "cataclysm:void_rod"
+                }
+				
+            ]
+        },
+		{
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+					"weight": 1,
+                    "name": "minecraft:shulker_head"
+                }
+				
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+					"weight": 1,
+                    "name": "cataclysm:gauntlet_of_guard"
+                }
+				
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+					"weight": 1,
+                    "name": "cataclysm:music_disc_ender_guardian"
+                }
+				
+            ]
+        }
+    ]
+}
