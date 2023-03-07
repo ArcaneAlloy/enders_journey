@@ -1,6 +1,8 @@
 {
     "result": {
-        "item": "cataclysm:bulwark_of_the_flame"
+		"type": "forge:nbt",
+        "item": "cataclysm:bulwark_of_the_flame",
+		"nbt": "{display:{Lore:['[{\"text\":\"You feel that you can withstand the adversity of your journey much more when you have this shield equipped in your left hand.\",\"italic\":false,\"color\":\"dark_green\"}]']},HideFlags:32}"
     },
     "type": "crafting_shaped",
     "pattern": [
