@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "title": "",
+        "description": "",
+        "announce_to_chat": false,
+        "background": "",
+        "hidden": true,
+        "show_toast": false
+    },
+    "criteria": {
+        "defeat": {
+            "trigger": "player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "cataclysm:ignis"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "boss:music/make_angered"
+    }
+}
