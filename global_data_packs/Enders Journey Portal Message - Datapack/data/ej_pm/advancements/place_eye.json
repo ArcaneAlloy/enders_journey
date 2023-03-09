@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "title": "",
+        "description": "",
+        "hidden": true,
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "requirements": [],
+    "criteria": {
+        "portal" : {
+            "trigger": "item_used_on_block",
+            "conditions": {
+                "location": {
+                    "block": {
+                        "blocks": [
+                            "endrem:ancient_portal_frame"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "ej_pm:raycast_setup"
+    }
+}
