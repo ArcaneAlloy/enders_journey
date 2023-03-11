@@ -165,3 +165,16 @@ onEvent('item.tags', event => {
 		event.add('forge:trident_ingredients', 'minecraft:prismarine_crystals')
 		event.add('forge:trident_ingredients', 'upgrade_aquatic:thrasher_tooth')
 })
+
+onEvent('minecraft:end_dragon', event => {
+  // Get the world where the event was triggered
+  const world = event.getWorld();
+
+  // Iterate through all loaded entities
+  world.getAllEntities().forEach(entity => {
+    // Remove endermen and blaze mobs
+    if (entity.getType().getId() === 'minecraft:enderman' || entity.getType().getId() === 'outvoted:wildfire' || entity.getType().getId() === 'alexsmobs:soul_vulture') {
+      entity.kill();
+    }
+  });
+});
