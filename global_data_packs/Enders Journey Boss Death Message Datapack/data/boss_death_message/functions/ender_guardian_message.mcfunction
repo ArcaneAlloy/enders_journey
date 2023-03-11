@@ -1,0 +1,3 @@
+tellraw @a ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"]
+tellraw @a {"text":"","color":"gray","extra":[{"selector":"@p","color":"white"},{"text":" was killed by the","color":"white"},{"text":" Ender Guardian","color":"light_purple","bold":"true"}]}
+advancement revoke @p only minecraft:ender_guardian_death

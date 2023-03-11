@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_by_wither": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "meetyourfight:bellringer"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "boss_death_message:bellringer_message"
+  }
+}

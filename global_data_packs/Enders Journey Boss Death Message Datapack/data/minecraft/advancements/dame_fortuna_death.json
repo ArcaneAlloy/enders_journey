@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_by_wither": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "meetyourfight:dame_fortuna"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "boss_death_message:dame_fortuna_message"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_by_wither": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "goblinsanddungeons:goblin_king"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "boss_death_message:goblin_king_message"
+  }
+}

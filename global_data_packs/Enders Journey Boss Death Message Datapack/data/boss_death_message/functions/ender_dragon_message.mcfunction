@@ -1,0 +1,3 @@
+tellraw @a ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"]
+tellraw @a {"text":"","color":"gray","extra":[{"selector":"@p","color":"white"},{"text":" was killed by the","color":"white"},{"text":" Ender Dragon","color":"dark_purple","bold":"true"}]}
+advancement revoke @p only minecraft:ender_dragon_death

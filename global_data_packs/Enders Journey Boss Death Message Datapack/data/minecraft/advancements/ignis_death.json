@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_by_wither": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "cataclysm:ignis"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "boss_death_message:ignis_message"
+  }
+}

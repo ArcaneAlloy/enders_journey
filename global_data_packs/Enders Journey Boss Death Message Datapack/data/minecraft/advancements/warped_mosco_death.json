@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_by_wither": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "alexsmobs:warped_mosco"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "boss_death_message:warped_mosco_message"
+  }
+}
