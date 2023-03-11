@@ -1,0 +1,3 @@
+tellraw @a ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"]
+tellraw @a {"text":"","color":"gray","extra":[{"selector":"@p","color":"white"},{"text":" was killed by the","color":"white"},{"text":" Illager King","color":"gray","bold":"true"}]}
+advancement revoke @p only minecraft:illager_king_death

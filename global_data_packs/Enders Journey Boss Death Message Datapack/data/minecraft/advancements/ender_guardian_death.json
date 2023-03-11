@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_by_wither": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "cataclysm:ender_guardian"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "boss_death_message:ender_guardian_message"
+  }
+}

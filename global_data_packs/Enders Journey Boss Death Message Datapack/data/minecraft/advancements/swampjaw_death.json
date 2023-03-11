@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_by_wither": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "meetyourfight:swampjaw"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "boss_death_message:swampjaw_message"
+  }
+}

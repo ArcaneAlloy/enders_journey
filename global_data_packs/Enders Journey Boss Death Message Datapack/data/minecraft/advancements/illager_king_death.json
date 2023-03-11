@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_by_wither": {
+      "trigger": "minecraft:entity_killed_player",
+      "conditions": {
+        "entity": {
+          "type": "illagers_plus:illager_king"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "boss_death_message:illager_king_message"
+  }
+}

@@ -1,0 +1,3 @@
+tellraw @a ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"]
+tellraw @a {"text":"","color":"gray","extra":[{"selector":"@p","color":"white"},{"text":" was killed by the","color":"white"},{"text":" Netherite Monstrosity","color":"red","bold":"true"}]}
+advancement revoke @p only minecraft:netherite_monstrosity_death
