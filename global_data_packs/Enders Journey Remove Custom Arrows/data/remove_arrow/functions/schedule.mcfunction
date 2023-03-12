@@ -1,0 +1,1 @@
+schedule function remove_arrow:remove_tipped_arrow 3t

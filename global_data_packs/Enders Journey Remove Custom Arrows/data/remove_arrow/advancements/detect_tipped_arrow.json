@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:tipped_arrow"
+        },
+        "title": "",
+        "description": "",
+        "hidden": true,
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "requirements": [],
+    "criteria": {
+        "Detect Arrow": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:tipped_arrow",
+                        "count": {
+                            "min": 1,
+                            "max": 9999999999999999
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "remove_arrow:schedule"
+    }
+}
