@@ -1,0 +1,11 @@
+{
+  "music.menu": {
+    "sounds": [
+      {
+        "name": "music/menu",
+        "stream": true
+      }
+    ],
+    "replace": true
+  }
+}
