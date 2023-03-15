@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "killed_ender_dragon": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:ender_dragon"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "expansion:give_enderite_ingot"
+  }
+}
