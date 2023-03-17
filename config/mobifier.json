@@ -5765,33 +5765,6 @@
         }
       }
     ],
-    "minecraft:ender_dragon": [
-      {
-        "conditions_to_apply": [],
-        "xp_modifier": "*1",
-        "attribute_modifier": {
-          "minecraft:horse.jump_strength": "*1",
-          "minecraft:generic.attack_knockback": "*1",
-          "minecraft:generic.flying_speed": "*1",
-          "minecraft:generic.attack_damage": "*1",
-          "minecraft:generic.armor": "*1",
-          "forge:entity_gravity": "*1",
-          "minecraft:generic.armor_toughness": "*1",
-          "minecraft:generic.max_health": "*1",
-          "minecraft:generic.luck": "*1",
-          "minecraft:generic.follow_range": "*1",
-          "forge:reach_distance": "*1",
-          "minecraft:generic.knockback_resistance": "*1",
-          "savageandravage:explosive_damage_reduction": "*1",
-          "minecraft:generic.movement_speed": "*1",
-          "forge:nametag_distance": "*1",
-          "minecraft:generic.attack_speed": "*1",
-          "minecraft:zombie.spawn_reinforcements": "*1",
-          "forge:swim_speed": "*1",
-          "environmental:stealth": "*1"
-        }
-      }
-    ],
     "quark:colored_frame": [
       {
         "conditions_to_apply": [],
