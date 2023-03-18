@@ -74,7 +74,7 @@ bossbar set illager_king1 max 150
 bossbar set illager_king1 value 150
 bossbar set illager_king1 color red
 
-bossbar add illager_king2 {"text":"mosco"}
+bossbar add illager_king2 {"text":"illager_king"}
 bossbar set illager_king2 name {"translate":"entity.illagers_plus.illager_king"}
 bossbar set illager_king2 max 150
 bossbar set illager_king2 value 150
@@ -105,7 +105,7 @@ bossbar set ender_golem1 max 200
 bossbar set ender_golem1 value 200
 bossbar set ender_golem1 color purple
 
-bossbar add ender_golem2 {"text":"mosco"}
+bossbar add ender_golem2 {"text":"ender_golem"}
 bossbar set ender_golem2 name {"translate":"entity.cataclysm.ender_golem"}
 bossbar set ender_golem2 max 200
 bossbar set ender_golem2 value 200
