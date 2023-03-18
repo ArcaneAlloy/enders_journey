@@ -33,12 +33,12 @@ customization {
 customization {
   path = resources/loading_screen/book.gif
   orientation = bottom-right
-  x = -7
-  width = 80
+  x = 5
+  width = 70
   action = addtexture
   actionid = 15c9894a-353c-480c-a5d6-9bba4560cf441673950275050
-  y = -10
-  height = 80
+  y = 6
+  height = 70
 }
 
 customization {
