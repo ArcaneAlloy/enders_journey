@@ -40,8 +40,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/main_menu/large_button_on.png
-  backgroundnormal = resources/main_menu/large_button_off.png
+  backgroundhovered = resources\main_menu\large_button_on.png
+  backgroundnormal = resources\main_menu\large_button_off.png
 }
 
 customization {
@@ -71,8 +71,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/main_menu/large_button_on.png
-  backgroundnormal = resources/main_menu/large_button_off.png
+  backgroundhovered = resources\main_menu\large_button_on.png
+  backgroundnormal = resources\main_menu\large_button_off.png
 }
 
 customization {
@@ -95,8 +95,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/main_menu/accesibility_button_on.png
-  backgroundnormal = resources/main_menu/accesibility_button_off.png
+  backgroundhovered = resources\main_menu\accesibility_button_on.png
+  backgroundnormal = resources\main_menu\accesibility_button_off.png
 }
 
 customization {
@@ -124,8 +124,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/main_menu/large_button_on.png
-  backgroundnormal = resources/main_menu/large_button_off.png
+  backgroundhovered = resources\main_menu\large_button_on.png
+  backgroundnormal = resources\main_menu\large_button_off.png
 }
 
 customization {
@@ -168,8 +168,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/main_menu/large_button_on.png
-  backgroundnormal = resources/main_menu/large_button_off.png
+  backgroundhovered = resources\main_menu\large_button_on.png
+  backgroundnormal = resources\main_menu\large_button_off.png
 }
 
 customization {
@@ -192,8 +192,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/main_menu/quark_button_on.png
-  backgroundnormal = resources/main_menu/quark_button_off.png
+  backgroundhovered = resources\main_menu\quark_button_on.png
+  backgroundnormal = resources\main_menu\quark_button_off.png
 }
 
 customization {
@@ -217,8 +217,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/main_menu/large_button_on.png
-  backgroundnormal = resources/main_menu/large_button_off.png
+  backgroundhovered = resources\main_menu\large_button_on.png
+  backgroundnormal = resources\main_menu\large_button_off.png
 }
 
 customization {
@@ -241,8 +241,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = resources/main_menu/language_button_on.png
-  backgroundnormal = resources/main_menu/language_button_off.png
+  backgroundhovered = resources\main_menu\language_button_on.png
+  backgroundnormal = resources\main_menu\language_button_off.png
 }
 
 customization {
@@ -270,11 +270,11 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 411
+  x = 251
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 71a2820f-b54e-470b-8e21-cff68672e1931667101256359
-  y = 331
+  y = 235
   height = 9
 }
 
@@ -317,7 +317,7 @@ customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = openlink
-  backgroundhovered = resources/main_menu/discord_button_on.png
+  backgroundhovered = resources\main_menu\discord_button_on.png
   label = 
   loopbackgroundanimations = true
   orientation_element = vanillabtn:3763941
@@ -326,7 +326,7 @@ customization {
   actionid = b2f694c3-d9bf-4348-a4f3-2e093b883e441667142283529
   action = addbutton
   y = 25
-  backgroundnormal = resources/main_menu/discord_button_off.png
+  backgroundnormal = resources\main_menu\discord_button_off.png
   value = https://discord.gg/RjWCgrnBZz
   height = 20
 }
@@ -335,7 +335,7 @@ customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = openlink
-  backgroundhovered = resources/main_menu/curseforge_button_on.png
+  backgroundhovered = resources\main_menu\curseforge_button_on.png
   label = 
   loopbackgroundanimations = true
   orientation_element = b2f694c3-d9bf-4348-a4f3-2e093b883e441667142283529
@@ -344,7 +344,7 @@ customization {
   actionid = c358fde8-4b34-458f-809e-007def72aac41667142538080
   action = addbutton
   y = 0
-  backgroundnormal = resources/main_menu/curseforge_button_off.png
+  backgroundnormal = resources\main_menu\curseforge_button_off.png
   value = https://www.curseforge.com/minecraft/modpacks/enders-journey
   height = 20
 }
@@ -353,7 +353,7 @@ customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = openlink
-  backgroundhovered = resources/main_menu/bug_button_on.png
+  backgroundhovered = resources\main_menu\bug_button_on.png
   label = 
   loopbackgroundanimations = true
   orientation_element = c358fde8-4b34-458f-809e-007def72aac41667142538080
@@ -362,7 +362,7 @@ customization {
   actionid = 571ef5cf-7a24-459c-9aff-b7fdd65baca21667143642635
   action = addbutton
   y = 0
-  backgroundnormal = resources/main_menu/bug_button_off.png
+  backgroundnormal = resources\main_menu\bug_button_off.png
   value = https://github.com/PreciseModpacker/enders_journey/issues
   height = 20
 }
@@ -370,11 +370,11 @@ customization {
 customization {
   path = resources/main_menu/logo.gif
   orientation = top-centered
-  x = -104
-  width = 298
+  x = -74
+  width = 240
   action = addtexture
   actionid = f58c2830-d016-49e2-a03e-76cd8309b0ed1673987646197
   y = 18
-  height = 50
+  height = 40
 }
 
