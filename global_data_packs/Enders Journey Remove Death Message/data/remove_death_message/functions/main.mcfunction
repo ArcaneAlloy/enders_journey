@@ -1,1 +1,0 @@
-execute at @a[tag=!joined] run function type:joined

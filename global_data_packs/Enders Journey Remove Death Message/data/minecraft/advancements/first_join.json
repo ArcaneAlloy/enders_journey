@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "first_join": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "scores": {
+            "first_join": 0
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "minecraft:first_join"
+  }
+}
