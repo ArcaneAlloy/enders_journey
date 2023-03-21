@@ -6,10 +6,6 @@ Void Worm Boss
 Colossal Enemy by Makai Symphony
 Source: http://makai-symphony.com/
 
-Ignis Boss
-God of Blaze by Makai Symphony
-Source: http://makai-symphony.com/
-
 Warped Mosco
 Aerial combat by Makai Symphony
 Source: http://makai-symphony.com/sound/
