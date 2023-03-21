@@ -30,7 +30,7 @@ Bookshelf-Forge-1.16.5-10.4.32.jar
 buzzier_bees-1.16.5-3.0.3.jar
 carryon-1.16.5-1.15.5.22.jar
 castle_in_the_sky-1.16.5-0.2.6.jar
-Cataclysm-0.20.jar
+Cataclysm-0.48.jar
 catalogue-1.6.1-1.16.5.jar
 charm-forge-1.16.5-2.3.2.jar
 charmonium-forge-1.16.5-2.3.2.jar
