@@ -64,7 +64,6 @@ endergetic-1.16.5-3.0.2.jar
 endrem-5.0.3-R-1.16.5.jar
 Enhanced-Mushrooms-1.16.5-3.0.9.jar
 environmental-1.16.5-1.1.1.jar
-EquipmentCompare-1.16.5-1.3.2.jar
 ExtraArmor+1.16.5+-+1.12.2.jar
 Fallingleaves-1.16.3-1.2.4.jar
 fancymenu_forge_2.9.1_MC_1.16.2-1.16.5.jar
