@@ -18,6 +18,16 @@ onEvent('recipes', event => {
 		event.shapeless(Item.of('infernalexp:glowsilk'), ['minecraft:string', 'infernalexp:moth_dust'])
 
 		// Add craft for the Rogue Eye
+		event.shaped('8x quark:dirty_shard', [
+			'SSS',
+			'SMS',
+			'SSS'
+		  ], {
+			S: '#quark:shards',
+			M: 'environmental:mud_ball'
+		  })
+
+		// Add craft for the Rogue Eye
 		event.shaped('1x endrem:lost_eye', [
 			'RRR',
 			'RER',
@@ -128,6 +138,12 @@ onEvent('recipes', event => {
 		event.remove({output: 'waystones:green_sharestone'})
 		event.remove({output: 'waystones:red_sharestone'})
 		event.remove({output: 'waystones:black_sharestone'})
+
+		// Remove old Dirty Glass craft
+		event.remove({output: 'quark:dirty_glass'})
+
+		// Craft for Dirty Glass
+		event.shapeless(Item.of('quark:dirty_glass'), ['quark:dirty_shard', 'quark:dirty_shard', 'quark:dirty_shard', 'quark:dirty_shard'])
 })
 
 onEvent('item.tags', event => {
@@ -164,6 +180,9 @@ onEvent('item.tags', event => {
 		event.add('forge:trident_ingredients', 'outvoted:kraken_tooth')
 		event.add('forge:trident_ingredients', 'minecraft:prismarine_crystals')
 		event.add('forge:trident_ingredients', 'upgrade_aquatic:thrasher_tooth')
+
+		// Remove Dirty Glass Shard from Shards tag
+		event.remove('quark:shards', 'quark:dirty_shard')
 })
 
 onEvent('minecraft:end_dragon', event => {
