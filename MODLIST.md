@@ -1,7 +1,6 @@
 .
 ..
 abnormals_core-1.16.5-3.3.0.jar
-advancementframes-1.16.5-1.0.5.jar
 AI-Improvements-1.16.5-0.5.0.jar
 alexsmobs-1.12.1.jar
 appleskin-forge-mc1.16.x-2.4.0.jar
