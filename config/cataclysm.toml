@@ -88,4 +88,8 @@
 	#Ignis's DamageCap
 	#Range: 0 ~ 1000000
 	IgnisDamageCap = 20
+	#Burning Arena spawn
+	BurningArenaSpawn = true
+	#Ignis's cracked block breaking ignore the MobGriefing
+	IgnisBlockBreaking = true
 
