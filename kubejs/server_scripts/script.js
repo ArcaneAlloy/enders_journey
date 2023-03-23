@@ -18,7 +18,7 @@ onEvent('recipes', event => {
 		event.shapeless(Item.of('infernalexp:glowsilk'), ['minecraft:string', 'infernalexp:moth_dust'])
 
 		// Craft Polished Marble with Chisel Marble
-		event.shapeless(Item.of('quark:polished_marble'), ['chisel:marble/raw', 'chisel:marble/raw', 'chisel:marble/raw', 'chisel:marble/raw'])
+		event.shapeless(Item.of('4x quark:polished_marble'), ['chisel:marble/raw', 'chisel:marble/raw', 'chisel:marble/raw', 'chisel:marble/raw'])
 
 		// Add craft for the Rogue Eye
 		event.shaped('8x quark:dirty_shard', [
