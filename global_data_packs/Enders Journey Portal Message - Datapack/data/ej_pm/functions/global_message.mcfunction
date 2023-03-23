@@ -5,4 +5,5 @@ tellraw @a {"text":"","color": "light_purple"}
 tellraw @a {"text":"  * Video Settings... --> General --> Render Distance: 32 chunks","color": "dark_purple"}
 tellraw @a {"text":"  * Video Settings... --> Extras  --> Vertical Entity Distance: 64","color": "dark_purple"}
 tellraw @a {"text":"  * Video Settings... --> Extras  --> Vertical Tile Distance: 64","color": "dark_purple"}
+tellraw @a {"text":"  * Video Settings... --> Extras  --> Enable Fog: Turn Off","color": "dark_purple"}
 tag @s add messaged
