@@ -7,4 +7,5 @@ scoreboard objectives add dummy dummy
 scoreboard objectives add use_bow used:bow
 scoreboard objectives add use_crossbow used:crossbow
 
+#forceload add 0 0
 schedule function ej_weapon:powers/check_dropped 10t
