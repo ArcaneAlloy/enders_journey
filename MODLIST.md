@@ -73,7 +73,7 @@ fm_audio_extension_forge_1.1.1_MC_1.16.2-1.16.5.jar
 forgery-1.16-1.4.0_01.jar
 Fruitful-1.16.5-2.1.0.jar
 ftb-backups-2.1.2.2.jar
-geckolib-forge-1.16.5-3.0.107.jar
+geckolib-forge-1.16.5-3.0.97.jar
 globaldataandresourcepacks-1.16.5-1.10.2.jar
 Goblins_Dungeons_1.0.6-1.16.jar
 guardvillagers-1.16.5.1.2.6.jar
