@@ -12,3 +12,9 @@ net.minecraft.client.gui.screen.MainMenuScreen {
 net.minecraft.client.gui.screen.inventory.MerchantScreen {
 }
 
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.client.gui.screen.inventory.InventoryScreen {
+}
+
