@@ -159,5 +159,5 @@ onEvent('jei.hide.items', event => {
 		event.hide ('lepton:cut_glowdust_sandstone_stairs'),
 		event.hide ('cataclysm:final_fractal'),
 		event.hide ('outvoted:prismarine_rod')
-
+		event.hide ('chisel:offset_tool')
 })
