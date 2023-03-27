@@ -1,0 +1,16 @@
+[
+  {
+    "mob": "minecraft:slime",
+    "persecond": 0.5,
+    "attempts": 20,
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": false,
+      "mindist": 5,
+      "maxdist": 20,
+      "minheight": 35,
+      "maxheight": 65,
+      "maxthis": 20
+    }
+  }
+]
