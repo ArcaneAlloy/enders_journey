@@ -87,6 +87,7 @@ Inspirations-1.16.5-1.2.3.38.jar
 InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar
 ironchest-1.16.5-11.2.21.jar
 itemzoom-1.16.4-2.3.1.jar
+itlt-1.16.x-2.0.1.jar
 Jade-1.16.4-2.8.3.jar
 jeed-1.16.5-1.6.jar
 jei-1.16.5-7.8.0.1009.jar
