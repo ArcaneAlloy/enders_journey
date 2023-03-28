@@ -55,6 +55,7 @@ dragonfight-1.8.jar
 drippyloadingscreen_forge_1.6.4_MC_1.16.2-1.16.5.jar
 dungeons_enhanced-1.16.5-1.8.2.jar
 dungeons_plus-1.16.5-1.1.5.jar
+dynamiclightsreforged-mc1.16.5_v1.0.1
 dynmus-1.3.1.jar
 EnchantmentDescriptions-1.16.5-7.1.20.jar
 endergetic-1.16.5-3.0.2.jar
