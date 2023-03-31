@@ -10,7 +10,7 @@
 	#This sets whether you need a totem to prevent death when falling into the void.
 	needs_totem = true
 	#This sets whether a tooltip is shown on the totem.
-	show_totem_tooltip = true
+	show_totem_tooltip = false
 	#This sets the height you will be teleported when you can't be placed on a block.
 	#Range: 256 ~ 2048
 	teleport_height = 320
