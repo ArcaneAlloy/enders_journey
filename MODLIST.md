@@ -112,7 +112,6 @@ mgui-1.16.5-3.3.0.jar
 mobifier-1.1.4.jar
 modernworldcreation_1.0.0_MC_1.16.2-1.16.5.jar
 MouseTweaks-2.14-mc1.16.2.jar
-musicdr-forge-1.2.0.jar
 NaturesCompass-1.16.5-1.9.1-forge.jar
 neapolitan-1.16.5-2.2.1.jar
 NetherPortalFix_1.16.3-7.2.1.jar
