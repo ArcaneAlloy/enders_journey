@@ -36,7 +36,7 @@ chocolate-1.3.0-1.16.4.jar
 citadel-1.8.1-1.16.5.jar
 Clumps-6.0.0.28.jar
 collective-1.16.5-5.49.jar
-configured-1.5.3-1.16.5.jar
+configured-1.5.4-1.16.5.jar
 Controlling-7.0.0.29.jar
 cookielicious-1.16.5-1.4.3.jar
 CosmeticArmorReworked-1.16.5-v5.jar
@@ -157,8 +157,8 @@ VTweaks-1.16.4-3.6.2.jar
 Waystones_1.16.5-7.6.4.jar
 w2w-1.16.1-0.0.5.2.jar
 windowlogging-mc1.16.5_v0.0.5.jar
-Xaeros_Minimap_22.3.0_Forge_1.16.5.jar
-XaerosWorldMap_1.29.2_Forge_1.16.5.jar
+Xaeros_Minimap_22.3.2_Forge_1.16.5.jar
+XaerosWorldMap_1.29.4_Forge_1.16.5.jar
 xlpackets-1.16.4-1.2.jar
 YungsApi-1.16.4-Forge-13.jar
 YungsBridges-Forge-1.16.4-1.0.1.jar
