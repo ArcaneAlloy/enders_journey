@@ -20,7 +20,7 @@ onEvent('recipes', event => {
 		// Craft Polished Marble with Chisel Marble
 		event.shapeless(Item.of('4x quark:polished_marble'), ['chisel:marble/raw', 'chisel:marble/raw', 'chisel:marble/raw', 'chisel:marble/raw'])
 
-		// Add craft for the Rogue Eye
+		// Add craft for the dirty Shard
 		event.shaped('8x quark:dirty_shard', [
 			'SSS',
 			'SMS',
@@ -30,7 +30,7 @@ onEvent('recipes', event => {
 			M: 'environmental:mud_ball'
 		  })
 
-		// Add craft for the Rogue Eye
+		// Add craft for the Lost Eye
 		event.shaped('1x endrem:lost_eye', [
 			'RRR',
 			'RER',
@@ -141,6 +141,9 @@ onEvent('recipes', event => {
 		event.remove({output: 'waystones:green_sharestone'})
 		event.remove({output: 'waystones:red_sharestone'})
 		event.remove({output: 'waystones:black_sharestone'})
+
+		// Remove old craft recipe for the Explorers Compass
+		event.remove({output: 'explorerscompass:explorerscompass'})
 
 		// Remove old Dirty Glass craft
 		event.remove({output: 'quark:dirty_glass'})

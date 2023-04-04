@@ -8,6 +8,17 @@
                     "name": "cataclysm:witherite_ingot"
                 }
             ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+					"weight": 1,
+                    "name": "cataclysm:wither_soul"
+                }
+				
+            ]
         }
     ]
 }

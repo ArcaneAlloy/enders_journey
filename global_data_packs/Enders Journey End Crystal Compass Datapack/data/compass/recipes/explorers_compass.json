@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "group": "tools",
+  "pattern": [
+    " E ",
+    "EWE",
+    " E "
+  ],
+  "key": {
+    "W": {
+      "item": "cataclysm:wither_soul"
+    },
+    "E":{
+      "item": "endrem:end_crystal_fragment"
+    }
+  },
+    "result":
+    {
+        "type": "forge:nbt",
+        "item": "explorerscompass:explorerscompass",
+        "nbt": "{display:{Name:'{\"text\":\"Ender Compass\",\"color\":\"light_purple\"}'}}"
+    }
+}
