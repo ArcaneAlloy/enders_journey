@@ -13,6 +13,9 @@ onEvent('item.registry', event => {
 	
 	//Add Void Rod needed for the craft of the Zero Gravity Crossbow
 	event.create('cataclysm:void_rod').displayName('Void Rod')
+	
+	//Add Wither Soul needed for the craft of the End Crystal Compass Crossbow
+	event.create('cataclysm:wither_soul').displayName('Wither Soul')
 })
 
 onEvent('block.registry', event => {
