@@ -39,7 +39,7 @@
 	#Whether fish oil gives players a special levitation effect.
 	fishOilMeme = true
 	#Whether soul vulture spawns should be restricted solely to the nether fossil structure or to whatever biome is specified in their respective biome config.
-	soulVultureSpawnOnFossil = false
+	soulVultureSpawnOnFossil = true
 	#Whether acacia blossoms should drop from blocks tagged with #alexsmobs:drops_acacia_blossoms
 	acaciaBlossomsDropFromLeaves = true
 	#Whether wandering traders offer items like acacia blossoms, mosquito larva, crocodile egg, etc.
