@@ -37,9 +37,9 @@
 	#Number of pieces generated in End Gates
 	end_gate_size = 20
 	#Average distance in chunks between End Castles (Set to 0 to disable)
-	end_castle_distance = 100
+	end_castle_distance = 300
 	#Minimum distance in chunks between End Castles and the spawn
-	end_castle_spawn_distance = 188
+	end_castle_spawn_distance = 200
 	#Toggle Whether surrounding land will be modified to conform to the bottom of the structure. 
 	# If set to false, the bottom of the structure will be modified to conform to the surrounding land
 	end_castle_terraforming = true
