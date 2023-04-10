@@ -13,7 +13,7 @@
 	#Set to true to enable upsizer for signs. You also need to update your preferred max stack count in the proper section. Enabled by default.
 	check_signs = true
 	#Set to true to enable upsizer for records. You also need to update your preferred max stack count in the proper section. Enabled by default.
-	check_records = true
+	check_records = false
 	#Set to true to enable upsizer for empty buckets. You also need to update your preferred max stack count in the proper section. Enabled by default.
 	check_buckets = true
 	#Set to true to enable upsizer for ender pearls. You also need to update your preferred max stack count in the proper section. Enabled by default.
@@ -95,7 +95,7 @@
 [storage]
 	#New storage stack for records; default is 16.
 	#Range: 1 ~ 64
-	records_storage_stack = 64
+	records_storage_stack = 1
 	#New storage stack for filled water buckets; default is 1.
 	#Range: 1 ~ 64
 	water_buckets_storage_stack = 1
