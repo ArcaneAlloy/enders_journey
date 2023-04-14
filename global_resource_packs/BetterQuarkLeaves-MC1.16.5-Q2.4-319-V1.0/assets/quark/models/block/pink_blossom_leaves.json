@@ -1,8 +1,0 @@
-{
-  "parent": "quark:block/leaves_generic",
-  "textures": {
-    "all": "quark:block/pink_blossom_leaves",
-	"bottom": "quark:block/pink_blossom_leaves_bottom_bush",
-	"top": "quark:block/pink_blossom_leaves_top_bush"
-  }
-}

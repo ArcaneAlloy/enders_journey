@@ -1,8 +1,0 @@
-{
-    "parent":"block/leaves_cross_overlay1",
-    "textures": {
-        "all":"fruitful:block/budding_oak_leaves",
-        "overlay":"fruitful:block/budding_oak_leaves_overlay",
-	"bushy": "block/oak_leaves_bushy1"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "parent":"block/leaves_cross1",
-    "textures": {
-        "all":"atmospheric:block/kousa_leaves",
-	"bushy": "atmospheric:block/kousa_leaves_bushy1"
-    }
-}

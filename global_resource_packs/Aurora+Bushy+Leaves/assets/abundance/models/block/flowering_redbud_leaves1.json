@@ -1,8 +1,0 @@
-{
-    "parent":"block/leaves_cross_overlay",
-    "textures": {
-        "all":"abundance:block/flowering_redbud_leaves",
-        "overlay":"abundance:block/flowering_redbud_leaves_overlay",
- "bushy": "abundance:block/redbud_leaves_bushy1"
-    }
-}
