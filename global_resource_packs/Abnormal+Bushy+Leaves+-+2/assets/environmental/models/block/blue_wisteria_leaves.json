@@ -1,8 +1,0 @@
-{
-    "parent":"block/leaves_cross",
-    "textures": {
-        "all":"environmental:block/blue_wisteria_leaves",
-	"bushy": "environmental:block/blue_wisteria_leaves_bushy"
-    }
-}
-
