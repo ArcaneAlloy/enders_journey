@@ -1,0 +1,12 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "entity.minecraft.wither": "\uE001",
+  "entity.minecraft.ender_dragon": "\uE002",
+  "event.minecraft.raid": "\uE003",
+  "event.minecraft.raid.raiders_remaining": "",
+  "event.minecraft.raid.victory": "",
+  "event.minecraft.raid.defeat": ""
+}

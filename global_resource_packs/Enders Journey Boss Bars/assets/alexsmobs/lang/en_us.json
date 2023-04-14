@@ -1,0 +1,8 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "entity.alexsmobs.void_worm": "\uE008",
+  "entity.alexsmobs.warped_mosco": "\uE009"
+}

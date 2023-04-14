@@ -1,0 +1,10 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "entity.cataclysm.ender_golem": "\uE004",
+  "entity.cataclysm.ender_guardian": "\uE005",
+  "entity.cataclysm.netherite_monstrosity": "\uE006",
+  "entity.cataclysm.ignis": "\uE007"
+}

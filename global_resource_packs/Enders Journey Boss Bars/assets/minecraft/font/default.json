@@ -1,0 +1,80 @@
+{
+    "providers": [
+
+	{ "type": "bitmap",
+            "file": "minecraft:font/wither.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE001"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/enderdragon.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE002"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/raid.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE003"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/ender_golem.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE004"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/ender_guardian.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE005"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/netherite_monstrosity.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE006"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/ignis.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE007"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/void_worm.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE008"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/warped_mosco.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE009"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/ogre.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE010"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/goblin_king.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE011"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/swampjaw.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE012"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/bellringer.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE013"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/dame_fortuna.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE014"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/illager_king.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE015"]
+        }
+    ]
+}
