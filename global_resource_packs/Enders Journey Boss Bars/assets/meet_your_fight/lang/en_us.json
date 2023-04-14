@@ -1,0 +1,9 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "entity.meetyourfight.swampjaw": "\uE012",
+  "entity.meetyourfight.bellringer": "\uE013",
+  "entity.meetyourfight.dame_fortuna": "\uE014"
+}
