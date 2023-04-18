@@ -7,4 +7,4 @@ data modify entity @e[tag=launch,limit=1,sort=nearest] Owner set from entity @s 
 
 kill @e[type=armor_stand,tag=shoot_testing]
 tag @e[tag=launch,sort=nearest] remove launch
-execute in overworld run forceload remove 0 0
+#execute in overworld run forceload remove 0 0
