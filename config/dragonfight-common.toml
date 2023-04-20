@@ -10,7 +10,7 @@
 	#List of mobs spawning when a crystal is destroyed at range, intended to be flying or ranged to close the gap: e.g. format :  ["minecraft:zombie", "minecraft:creeper"]
 	forbidspawnoncrystaldestroydenMobs = ["outvoted:wildfire"]
 	#List of mobs spawning on crystal respawn, intended to be ranged to ward of players from a distance: e.g. format :  ["minecraft:zombie", "minecraft:creeper"]
-	spawnoncrystalrespawn = ["alexsmobs:soul_vulture"]
+	spawnoncrystalrespawn = ["minecraft:blaze"]
 	#List of mobs spawning while the dragon is sitting in the middle, intended to be melee and not vulnerable to ranged: e.g. format :  ["minecraft:zombie", "minecraft:creeper"]
-	spawnwhilelanded = ["minecraft:enderman"]
+	spawnwhilelanded = ["cataclysm:endermaptera"]
 
