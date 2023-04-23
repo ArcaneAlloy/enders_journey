@@ -112,6 +112,7 @@ Mantle-1.16.5-1.6.157.jar
 meetyourfight-1.16.5-1.2.0.jar
 mgui-1.16.5-3.3.0.jar
 mobifier-1.1.4.jar
+modernfix-mc1.16.5-1.12.2.jar
 modernworldcreation_1.0.0_MC_1.16.2-1.16.5.jar
 MouseTweaks-2.14-mc1.16.2.jar
 NaturesCompass-1.16.5-1.9.1-forge.jar
@@ -141,7 +142,6 @@ selene-1.16.5-1.9.0.jar
 shulker_enchantments-2.1.1.jar
 SimplyImprovedTerrain-0.3.2-Forge.jar
 skinned_lanterns-1.16.5-1.3.1.jar
-smoothboot-forge-1.16.4-1.2.2.jar
 snowundertrees-1.16.5-v1.3.jar
 SpawnerFix-1.16.2-1.0.0.2.jar
 step-1.16.4-1.1.0.jar
