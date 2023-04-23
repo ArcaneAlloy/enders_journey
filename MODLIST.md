@@ -104,6 +104,7 @@ kubejs-forge-1605.3.19-build.299.jar
 lazydfu-0.1.3.jar
 leap-1.16.4-1.1.1.jar
 lepton-1.16.5-1.3.2.jar
+lightspeed-1.16.5-1.0.3.jar
 litewolfcore-1.16.5v1.0.1.jar
 loadmyresources_1.0.4_MC_1.16.2-1.16.5.jar
 magnesium_extras-mc1.16.5_v1.4.0.jar
@@ -116,6 +117,7 @@ MouseTweaks-2.14-mc1.16.2.jar
 NaturesCompass-1.16.5-1.9.1-forge.jar
 neapolitan-1.16.5-2.2.1.jar
 NetherPortalFix_1.16.3-7.2.1.jar
+noearlyloadingprogress-1.0.1.jar
 OpenLoader-1.16.5-9.0.3.jar
 outvoted-1.16.5-1.2.4.jar
 overloadedarmorbar-5.1.0.jar
