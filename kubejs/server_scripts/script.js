@@ -203,6 +203,24 @@ onEvent('item.tags', event => {
 		// Remove Dirty Glass Shard from Shards tag
 		event.remove('quark:shards', 'quark:dirty_shard')
 		
+		// Craft for Dirty Glass
+		event.shapeless(Item.of('quark:dirty_glass'), ['quark:dirty_shard', 'quark:dirty_shard', 'quark:dirty_shard', 'quark:dirty_shard'])
+
+		// Add craft for the Levitation Stone
+		  event.shaped('1x castle_in_the_sky:levitation_stone', [
+			' E ',
+			'EGE',
+			'EEE'
+		  ], {
+			E: 'cataclysm:enderite_ingot',
+			G: 'minecraft:gold_block'
+		  })
+		  
+		// Add craft to be able to create copies of the Levitation Stone for multiplayer
+		event.shapeless(Item.of('castle_in_the_sky:levitation_stone'), ['castle_in_the_sky:levitation_stone', 'minecraft:stone'])
+		
+		// Add craft to create Slime Balls from Snail Slime
+		event.shapeless(Item.of('minecraft:slime_ball'), ['autumnity:snail_slime', 'minecraft:lime_dye'])	
 })
 
 onEvent('minecraft:end_dragon', event => {
@@ -211,8 +229,8 @@ onEvent('minecraft:end_dragon', event => {
 
   // Iterate through all loaded entities
   world.getAllEntities().forEach(entity => {
-    // Remove endermen and blaze mobs
-    if (entity.getType().getId() === 'minecraft:enderman' || entity.getType().getId() === 'outvoted:wildfire' || entity.getType().getId() === 'alexsmobs:soul_vulture') {
+    // Remove Blazes, Wildfires and Endermaptera mobs
+    if (entity.getType().getId() === 'cataclysm:endermaptera' || entity.getType().getId() === 'outvoted:wildfire' || entity.getType().getId() === 'minecraft:blaze') {
       entity.kill();
     }
   });
