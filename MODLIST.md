@@ -110,6 +110,8 @@ loadmyresources_1.0.4_MC_1.16.2-1.16.5.jar
 magnesium_extras-mc1.16.5_v1.4.0.jar
 Mantle-1.16.5-1.6.157.jar
 meetyourfight-1.16.5-1.2.0.jar
+memoryleakfix-forge-pre1.17-1.0.0.jar
+memorysweep-1.16.5-0.8.jar
 mgui-1.16.5-3.3.0.jar
 mobifier-1.1.4.jar
 modernfix-mc1.16.5-1.12.2.jar
