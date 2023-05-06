@@ -1,0 +1,26 @@
+{
+    "values": [
+        "minecraft:ender_dragon",
+        "minecraft:wither",
+
+        "alexsmobs:warped_mosco",
+        "alexsmobs:void_worm",
+
+        "meetyourfight:bellringer",
+        "meetyourfight:dame_fortuna",
+		"meetyourfight:swampjaw",
+
+        "cataclysm:ender_golem",
+        "cataclysm:netherite_monstrosity",
+        "cataclysm:ignis",
+
+        "goblinsanddungeons:goblin_king",
+        "goblinsanddungeons:ogre",
+        "illagers_plus:illager_king",
+
+
+        
+        "cataclysm:ender_guardian",
+        "minecraft:elder_guardian"
+    ]
+}

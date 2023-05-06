@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "title": "",
+        "description": "",
+        "hidden": true,
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "e" : {
+            "trigger": "tick",
+            "conditions": {
+                "player": {
+                    "nbt": "{Health:0f}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "resp:respawn/respawn"
+    }
+}
