@@ -104,7 +104,7 @@ kubejs-forge-1605.3.19-build.299.jar
 lazydfu-0.1.3.jar
 leap-1.16.4-1.1.1.jar
 lepton-1.16.5-1.3.2.jar
-lightspeed-1.16.5-1.0.3.jar
+lightspeed-1.16.5-1.0.4.jar
 litewolfcore-1.16.5v1.0.1.jar
 loadmyresources_1.0.4_MC_1.16.2-1.16.5.jar
 magnesium_extras-mc1.16.5_v1.4.0.jar
@@ -162,8 +162,8 @@ VTweaks-1.16.4-3.6.2.jar
 Waystones_1.16.5-7.6.4.jar
 w2w-1.16.1-0.0.5.2.jar
 windowlogging-mc1.16.5_v0.0.5.jar
-Xaeros_Minimap_22.3.2_Forge_1.16.5.jar
-XaerosWorldMap_1.29.4_Forge_1.16.5.jar
+Xaeros_Minimap_23.4.1_Forge_1.16.5.jar
+XaerosWorldMap_1.30.1_Forge_1.16.5.jar
 xlpackets-1.16.4-1.2.jar
 YungsApi-1.16.4-Forge-13.jar
 YungsBridges-Forge-1.16.4-1.0.1.jar
