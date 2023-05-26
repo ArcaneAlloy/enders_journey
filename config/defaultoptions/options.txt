@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","global:DragonFight Music 1.16.2+ - Resourcepack","global:Endernomicon Resourcepack","global:Enders Journey Resourcepack","inspirations:config_resources","loadmyresources.hiddenpack","quark:emote_resources","global:Abnormal+Bushy+Leaves+-+2","global:Aurora+Bushy+Leaves","global:BetterQuarkLeaves-MC1.16.5-Q2.4-319-V1.0","global:EMResources-v1","global:Enders Journey Boss Bars","global:Repurposed_Structures-Buzzier_Bees","global:Repurposed_Structures-Environmental","global:Xaero\u0027s+Minimap+-+Mod+Icons","global:illagers_plus_plus_plus_v1.1"]
-incompatibleResourcePacks:["inspirations:config_resources","quark:emote_resources"]
+resourcePacks:["vanilla","mod_resources","global:Endernomicon Resourcepack","global:Enders Journey Resourcepack","inspirations:config_resources","loadmyresources.hiddenpack","quark:emote_resources","global:Enders Journey Boss Bars","global:Enders Journey - Crystal GUI (Resource Pack)","global:Enders Journey BossFight Music - Resource Pack","global:Enders Journey DragonFight Music 1.16.2+ - Resourcepack","global:Enders Journey Ender Dragon Resourcepack","global:Enders Journey Levitation Stone","global:Enders Journey Menu Music Resourcepack","global:Enders Journey The Guardians Guide","global:Enders Journey Weapons ResourcePack","global:Enders Journey Xaero\u0027s Minimap Icons","file/illagers_plus_plus_plus_v1.1.zip","file/Xaero\u0027s Minimap - Mod Icons.zip","file/Repurposed_Structures-Buzzier_Bees.zip","file/Repurposed_Structures-Environmental.zip","file/EMResources-v1.zip","file/BetterQuarkLeaves-MC1.16.5-Q2.4-319-V1.0.zip","file/Aurora Bushy Leaves.zip","file/Abnormal Bushy Leaves - 2.zip"]
+incompatibleResourcePacks:["inspirations:config_resources","quark:emote_resources","file/EMResources-v1.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
