@@ -15,7 +15,7 @@
 	"memory usage time" = 2
 	#Clean memory when players join the world.
 	#Only the first player is valid.
-	"player join world sweep" = true
+	"player join world sweep" = false
 	#Control command send text.
 	"command test" = false
 	#Control automatic memory cleaner send text.
