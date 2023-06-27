@@ -105,7 +105,19 @@ onEvent('recipes', event => {
 			I: '#forge:trident_ingredients',
 			R: 'upgrade_aquatic:prismarine_rod'
 		  })		
-	
+
+		// Remove default Timber Frame craft recipe
+		event.remove({output: 'supplementaries:timber_frame'})
+		
+		// Add new craft recipe for the Timber Frame
+		  event.shaped('1x supplementaries:timber_frame', [
+			'SSS',
+			'S S',
+			'SSS'
+		  ], {
+			S: 'minecraft:stick'
+		  })
+		
 		// Add craft for the Final Fractal, we use the Enders Journey Weapons Datapack to add an alternative of this weapon
 		//event.smithing('cataclysm:final_fractal', 'minecraft:netherite_sword', 'cataclysm:witherite_ingot')
 
