@@ -104,7 +104,7 @@ kubejs-forge-1605.3.19-build.299.jar
 lazydfu-0.1.3.jar
 leap-1.16.4-1.1.1.jar
 lepton-1.16.5-1.3.2.jar
-lightspeed-1.16.5-1.0.4.jar
+lightspeed-1.16.5-1.0.5.jar
 litewolfcore-1.16.5v1.0.1.jar
 loadmyresources_1.0.4_MC_1.16.2-1.16.5.jar
 magnesium_extras-mc1.16.5_v1.4.0.jar
@@ -113,7 +113,7 @@ meetyourfight-1.16.5-1.2.0.jar
 memoryleakfix-forge-pre1.17-1.0.0.jar
 mgui-1.16.5-3.3.0.jar
 mobifier-1.1.4.jar
-modernfix-mc1.16.5-1.15.0.jar
+modernfix-forge-5.0.4+mc1.16.5.jar
 modernworldcreation_1.0.0_MC_1.16.2-1.16.5.jar
 MouseTweaks-2.14-mc1.16.2.jar
 NaturesCompass-1.16.5-1.9.1-forge.jar
@@ -135,7 +135,7 @@ randompatches-2.4.4-forge.jar
 repurposed_structures_forge-3.4.7+1.16.5.jar
 RevampedWolf-1.16.4-0.7.1.jar
 rhino-forge-1605.1.5-build.75.jar
-rubidium-0.2.11.jar
+rubidium-0.2.12.jar
 savageandravage-1.16.5-3.2.0.jar
 SaveYourPets-1.16.2-1.0.0.7.jar
 screenshot-to-clipboard-1.0.7-forge.jar
