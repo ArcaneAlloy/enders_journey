@@ -18,6 +18,6 @@
     {
         "type": "forge:nbt",
         "item": "explorerscompass:explorerscompass",
-        "nbt": "{display:{Name:'{\"text\":\"Ender Compass\",\"color\":\"light_purple\"}'}}"
+        "nbt": "{display:{Name:'{\"text\":\"The Guardian\\'s Guide\",\"color\":\"light_purple\"}'}}"
     }
 }
