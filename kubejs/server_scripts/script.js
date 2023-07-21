@@ -154,6 +154,34 @@ onEvent('recipes', event => {
 		event.remove({output: 'waystones:red_sharestone'})
 		event.remove({output: 'waystones:black_sharestone'})
 
+		// Add new craft recipes for Waystones
+		  event.shaped('1x waystones:waystone', [
+			' C ',
+			'CNC',
+			'CCC'
+		  ], {
+			N: 'minecraft:nether_star',
+			C: 'minecraft:cobblestone',
+		  })
+
+		  event.shaped('1x waystones:mossy_waystone', [
+			' C ',
+			'CNC',
+			'CCC'
+		  ], {
+			N: 'minecraft:nether_star',
+			C: 'minecraft:mossy_cobblestone',
+		  })
+
+		  event.shaped('1x waystones:sandy_waystone', [
+			' C ',
+			'CNC',
+			'CCC'
+		  ], {
+			N: 'minecraft:nether_star',
+			C: 'minecraft:sandstone',
+		  })
+
 		// Remove old craft recipe for the Explorers Compass
 		event.remove({output: 'explorerscompass:explorerscompass'})
 
